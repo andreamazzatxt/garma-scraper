@@ -1,0 +1,79 @@
+[
+  {
+    "brand": "HM",
+    "name": "A-line skirt",
+    "depatment": "divided",
+    "article_type": "Skirts",
+    "article_number": "0959800001",
+    "composition": [
+      "Polyester 100%",
+      "Polyester 100%",
+      "polyester 100%"
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F03%2Fbb%2F03bb577e40974900e19a96b60baa756ac0096e40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "supplier": {
+      "exist?": true,
+      "name": "B.L. INTERNATIONAL (P) LTD.",
+      "country": "India",
+      "address": "NO. 38G,, UDYOG VIHAR,, GREATER NOIDA,, 201301, NOIDA"
+    },
+    "position": 1
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatshirt",
+    "depatment": "divided",
+    "article_type": "Sweatshirts",
+    "article_number": "0961143001",
+    "composition": [
+      "Polyester 51%",
+      "Cotton 49%"
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F07%2Fc1%2F07c14db3c5c75eb3560466b89899376bf3b3b363.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "supplier": {
+      "exist?": true,
+      "name": "METRO KNITTING & DYEING MILLS",
+      "country": "Bangladesh",
+      "address": "RAMARBAG, KUTUBPUR, FATULLAH, 1400, NARAYANGONJ"
+    },
+    "position": 2
+  },
+  {
+    "brand": "HM",
+    "name": "Batik-patterned pyjamas",
+    "depatment": "divided",
+    "article_type": "Nightwear",
+    "article_number": "0991838001",
+    "composition": [
+      "Cotton 100%"
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F08%2F20%2F08203232a822c3e351033482150c49ca8254dfc5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "HM doesn't publish informations about suppliers of this item"
+    },
+    "position": 3
+  },
+  {
+    "brand": "HM",
+    "name": "H&M+ Shirt dress",
+    "depatment": "divided",
+    "article_type": "Dresses",
+    "article_number": "0962036001",
+    "composition": [
+      "Polyester 97%",
+      "Elastane 3%",
+      "polyester 55%"
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F64%2F96%2F64964a83e40ee8b98b340bbf704d701d30dd9771.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "HM doesn't publish informations about suppliers of this item"
+    },
+    "position": 4
+  }
+]

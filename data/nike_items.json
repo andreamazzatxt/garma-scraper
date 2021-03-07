@@ -1,0 +1,162 @@
+[
+  {
+    "brand": "NIKE",
+    "name": "Nike Blazer Mid '77",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DD6621-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/55146a99-ba1e-41f3-bacb-8c601d84163f/blazer-mid-77-shoe-J6fjLD.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 1
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DJ4601-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0fceed5a-bbbc-4fdb-91a0-b3abf2659ac4/air-max-plus-shoe-Z2KjHq.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 2
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90 AX",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DH4115-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4594b73a-348a-4735-901b-f694cc711d48/air-max-90-ax-shoe-lq1hZn.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 3
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CV8819-101",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4da5f6f3-7492-4f2b-a227-7e0f587a6dd8/air-max-90-shoe-Jq32nK.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 4
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike React Vision",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CI7523-102",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4ed2a3ed-bd1b-4a7d-8b6c-8dd9c0111a45/react-vision-shoe-1cLBjr.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 5
+  }
+]

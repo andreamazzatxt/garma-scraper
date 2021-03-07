@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's DAS® Light Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "85300",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw5214f7ca/images/hi-res/85300_CHRT_MR1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 1
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Micro Puff® Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84030",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/nxGJkwGjyJk/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 2
+  }
+]

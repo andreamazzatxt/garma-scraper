@@ -1,0 +1,164 @@
+[
+  {
+    "is_sustainable": true,
+    "name": "Recycled polyester",
+    "description": "Recycled polyester: Recycled polyester, often called r: Pet, is made from recycled plastic bottles. It is a great way to divert plastic from our landfills. The production of recycled polyester requires far fewer resources than that of new fibers and generates fewer CO2 emissions.  There are 2 ways to recycle polyester: For mechanical recycling, plastic is melted to make new yarn. This process can only be done a few times before the fiber loses its quality. Chemical recycling involves breaking down the plastic molecules and reforming them into yarn. This process maintains the quality of the original fiber and allows the material to be recycled infinitely, but it is more expensive.Recycled polyester is definitely a sustainable option for our wardrobe. However, we need to be aware that it is still non-biodegradable and takes years to disappear once thrown away.Products made with Recycled Polyester ",
+    "position": 1
+  },
+  {
+    "is_sustainable": true,
+    "name": "Recycled Nylon",
+    "description": "Recycled Nylon: Recycled Nylon has the same benefits as recycled polyester: It diverts waste from landfills and its production uses much fewer resources than virgin nylon (including water, energy and fossil fuel).A large part of the recycled nylon produced comes from old fishing nets. This is a great solution to divert garbage from the ocean. It also comes from nylon carpets, tights, etc.Recycling nylon is still more expensive than new nylon, but it has many environmental advantages.A lot of research is currently being conducted to improve the quality and reduce the costs of the recycling process.Econyl® is one good example of a certified, eco-friendly, recycled nylon textile.",
+    "position": 2
+  },
+  {
+    "is_sustainable": true,
+    "name": "Recycled Cotton",
+    "description": "Recycled Cotton: Recycled cotton prevents additional textile waste and requires far fewer resources than conventional or organic cotton. This makes it a great sustainable option.Cotton can be recycled using old garments or textile leftovers. The quality of the cotton may be lower than of new cotton. Recycled cotton is therefore usually blended with new cotton.The production of recycled cotton is still very limited.",
+    "position": 3
+  },
+  {
+    "is_sustainable": true,
+    "name": "Recycled Wool",
+    "description": "Recycled Wool: Recycled wool is also very sustainable option. Apart from diverting used wool garments from landfills, it saves a considerable amount of water, reduces land use for sheep grazing and avoids the use of chemicals for dyeing.Recycled wool contributes to a reduction of air, water, and soil pollution.Few certification labels exist to ensure consumers that wool is really recycled, such as Recycled Claim Standard (RCS), Global Recycled Standard (GRS), SCS Recycled Content Certification.",
+    "position": 4
+  },
+  {
+    "is_sustainable": true,
+    "name": "Organic Cotton",
+    "description": "Organic Cotton: The fabric has the same quality as conventional cotton but not the negative impact on the environment. Organic cotton addresses most of the environmental challenges which conventional cotton production faces.It is grown from non-GMO seeds and without the use of pesticide, insecticide or fertilizer. Unlike conventional cotton, organic farmers use ancestral farming methods, including crop-rotation, mixed farming or no-till farming to preserve the soil. Organic cotton uses up to 71% less water than conventional cotton according to some sources. Organic cotton farmers are not exposed to harmful substances.Several organizations have established certifications for organic cotton such as GOTS, USDA-NOP, Organic Content Standards, IVN and Naturland. Certification is the only proof that a product is truly organic.Products made with ORGANIC COTTON",
+    "position": 5
+  },
+  {
+    "is_sustainable": true,
+    "name": "Linen",
+    "description": "Linen: Linen is a natural fiber which stems from the flax plant. It uses considerably fewer resources than cotton or polyester (such as water, energy, pesticides, insecticides, fertilizers).Flax can grow in poor soil which is not used for food production. In some cases, it can even rehabilitate polluted soil. Flax plants also have a high rate of carbon absorption. For these reasons, we consider linen to be a sustainable material, even when it is not organically grown. ",
+    "position": 6
+  },
+  {
+    "is_sustainable": true,
+    "name": "Hemp",
+    "description": "Hemp: Hemp fabric comes from the plant with the same name. It is one of the fastest growing plants and it doesn't need much water, energy, pesticide, or fertilizers. The plant is very good for soil, it can be grown for many years in the same place without exhausting it. This is why hemp is considered to be eco-friendly.Hemp has very similar properties to linen. They are often difficult to differentiate.However, as hemp belongs to the same family as cannabis (although it does not have the same psychoactive effects), growing hemp is heavily regulated or prohibited in many countries. ",
+    "position": 7
+  },
+  {
+    "is_sustainable": true,
+    "name": "Ramie / Stinging Nettle ",
+    "description": "Ramie / Stinging Nettle Ramie and stinging nettle, or European nettle, are plants used to produced a fiber similar to linen. They are not very common but they are considered sustainable. Learn more...",
+    "position": 8
+  },
+  {
+    "is_sustainable": true,
+    "name": "Alpaca",
+    "description": "Alpaca: Alpaca fiber comes from the fleece of the animal bearing the same name. Alpacas are mainly bred in the Peruvian Andes. Alpacas are much more eco-friendly than cashmere goats, because they cut the grass they eat instead of pulling it out, which allows for the grass to keep growing. Additionally, Alpacas have soft padding under their feet, which is more gentle for the soil than goat or sheep hooves.They need very little water and food to survive and produce enough wool for 4 or 5 sweaters per year while a goat needs 4 years to produce just one cashmere sweater.Finally, buying alpaca supports indigenous communities in Peru who often live under the poverty line. ",
+    "position": 9
+  },
+  {
+    "is_sustainable": true,
+    "name": "Silk",
+    "description": "Silk: Silk is a protein fiber spun by silkworms and is a renewable resource. Silk is also biodegradable. For these reasons, we consider silk a sustainable fiber. However, chemicals are used to produce conventional silk, so we will always consider organic silk to be a better option.Because conventional silk production kills the silkworm, animal rights advocates prefer “Peace Silk”, Tussah, Ahimsa silks which allow the moth to evacuate the cocoon before it is boiled to produce silk.",
+    "position": 10
+  },
+  {
+    "is_sustainable": true,
+    "name": "Sustainable Wool",
+    "description": "Sustainable Wool: Conventional wool is far from being as eco-friendly as we would expect. However, there are some sustainable wool options on the market which make it possible for us to dress warmly and sustainably.  So far, we have found the Responsible Wool Standard (RWS), which ensures that farms use best practices to protect the land, and treat the animal decently.Certified organic wool guarantees that pesticides and parasiticides are not used on the pastureland or on the sheep themselves, and that good cultural and management practices of livestock are used. Certified organic wool is still pretty rare on the market. GOTS seems to be the only organization certifying organic wool.",
+    "position": 11
+  },
+  {
+    "is_sustainable": true,
+    "name": "Sustainable Cashmere",
+    "description": "Sustainable Cashmere: As we can see in the related section, conventional cashmere has very significant consequences for the environment.The good news is that there are a few sustainable cashmere options which address these environmental problems and give us the possibility to buy cashmere without a guilty conscience:NOYA Fibers; Sustainable cashmere® by Chianti Cashmere; ",
+    "position": 12
+  },
+  {
+    "is_sustainable": true,
+    "name": "Sustainable Leather",
+    "description": "Sustainable Leather: Leather will never be an animal-friendly product: It is made of dead animal skin. However, the skin used to make leather comes from animals raised for their meat. In that sense, it uses a byproduct from another industry, so it doesn’t actually need additional land and resources.Conventional leather is heavily criticized for the environmental impact of the tanning process.  But leather can also be eco-friendly. There are not many options in the market yet, but they do exist. These include Ecolife™ by Green Hides, which creates eco-friendly, chrome-free leather in Italian tanneries that recycle and purify wastewater.The Leather Working Group is also promoting sustainable environmental practices within the leather industry. ",
+    "position": 13
+  },
+  {
+    "is_sustainable": true,
+    "name": "Lyocell (Tencel®)",
+    "description": "Lyocell (Tencel®)Lyocell is a manufacturing process of rayon which is much more eco-friendly than its relatives modal and viscose. Lyocell is made in a closed-loop system that recycles almost all of the chemicals used. “Lyocell” is the generic name of the manufacturing process and fiber. Tencel® is the brand name of the lyocell commercialized by the company Lenzing AG. Tencel® is made from eucalyptus from PEFC certified forests. Eucalyptus trees grow quickly without the use of pesticides, fertilizers or irrigation.  Just like rayon and viscose, lyocell is 100% biodegradable.Ioncell-F is another rayon developed by Aalto University in Finland, similar to Lyocell but considered to be even more sustainable.",
+    "position": 14
+  },
+  {
+    "is_sustainable": true,
+    "name": "Orange Fiber",
+    "description": "Orange Fiber: Orange Fiber is an innovative fabric made from orange skins that comes from the juice industry wastes.  Learn more…",
+    "position": 15
+  },
+  {
+    "is_sustainable": true,
+    "name": "Pineapple Fiber (Piñatex)",
+    "description": "Pineapple Fiber (Piñatex)Piñatex is a fiber that comes from pineapple leaves. It is considered sustainable because it uses the by-products of pineapple harvests, so there is no need for extra resources to produce it. It is used as a substitute for leather. Learn more…  ",
+    "position": 16
+  },
+  {
+    "is_sustainable": true,
+    "name": "",
+    "description": "",
+    "position": 17
+  },
+  {
+    "is_sustainable": true,
+    "name": "Cupro",
+    "description": "Cupro: Cupro is an artificial cellulose fiber made from Linter Cotton (or Cotton wastes). In order to obtain the ready to weave yarn, the extracted cellulose is soaked in a bath of a chemical solution called «cuprammonium », hence the Cupro Name.All the process is made in closed-loop. The large quantities of water and chemicals used in the production of Cupro are therefore constantly reused until they are completely exhausted. The chemicals used are free of toxic or dangerous compounds for health and the environment.Cupro is also biodegradable, so it considers a good eco-friendly alternative to viscose.Learn more…  ",
+    "position": 18
+  },
+  {
+    "is_sustainable": false,
+    "name": "Cotton",
+    "description": "Cotton: Although it is a natural fiber, conventional cotton is far from environmentally friendly.Cotton is mainly produced in dry and warm regions, but it needs a lot of water to grow. In some places, like India, inefficient water use means that up to 20,000 liters of water are needed to produce 1kg of cotton. In the meantime, 100 million people in India do not have access to drinking water.99.3% of cotton is grown using fertilizers and genetically modified seeds. Cotton represents 10% of the pesticides and 25% of the insecticides used globally. 99% of the world’s cotton farmers are located in developing countries where labor, health and safety regulations are nonexistent or not enforced most of the time. Child and forced labor are common practice.In Uzbekistan (the 6th largest exporter of cotton in the world), more than 1 million people are forced to pick cotton for little or no pay every year.",
+    "position": 19
+  },
+  {
+    "is_sustainable": false,
+    "name": "Wool",
+    "description": "Wool: Wool as such is a renewable natural fiber, so it could have been considered an environment-friendly option. Unfortunately, the extensive sheep farming practiced to meet the global demands has had disastrous consequences on the environment.Sheep survive by grazing, which can have a positive impact on certain types of ecosystems when it is well managed. But when the land is grazed too heavily, this leads to overgrazing.Overgrazing means that the vegetation does not have enough time to grow back before it is consumed. The soil becomes weak and vulnerable to erosion and desertification.   For example, 30% of the region of Patagonia is affected by desertification, mainly due to overgrazing by sheep which are primarily raised for their wool. Sheep also release methane, a gas that is 25 times worse for global warming than CO2. Sheep are often subjected to insecticide baths which contain substances hazardous to the farmers. Residues of those harmful chemicals can remain in the wool and make its way into our clothes.Animal welfare:Another concern about wool production is the poor treatment of sheep. When a sheep’s fleece is removed (shearing), the shearers often hurt the animals, cutting their skin or hitting them to keep them quiet. Finally, the practice of mulesing has been widely denounced by animal rights activists. Mulesing involves removing the skin of the Merino sheep around the breech to prevent parasitic infection.",
+    "position": 20
+  },
+  {
+    "is_sustainable": false,
+    "name": "Leather",
+    "description": "Leather: Leather is a controversial fiber. First of all, it is not an animal-friendly option, since it is made of dead animal skin.But environmental and social concerns related to leather are mostly linked to the tanning process:  Toxic chemicals are used (chromium in 80% of cases)  to transform the skins into wearable leather.Those substances are often dumped into rivers, polluting freshwater and oceans. Also, most of the tanning factory workers around the world do not wear adequate protection and suffer from skin, eye, and respiratory diseases, cancer and more due to their exposure to chemical substances.  Many children also work in tanneries.\"Chrome-free\" leather, which usually means aldehyde-tanned or vegetable-tanned, is an alternatives to chrome-tanned leather. However, it has been proven that its environmental impact is very similar to chrome-tanned leather.The good news is that some sustainable leather options are starting to appear. Learn more...",
+    "position": 21
+  },
+  {
+    "is_sustainable": false,
+    "name": "Cashmere",
+    "description": "Cashmere: Cashmere fiber comes from cashmere goat hairs. More than 80% of the world’s cashmere is produced in China and Mongolia.The main environmental issue stemming from cashmere is due to the fact that goats pull the grass out by the roots when they eat instead of cutting it. As a result, the grass does not grow back, leading to land desertification. This, combined with an overpopulation of goats, results in a real environmental threat.Mongolia is now suffering the consequences of this overgrazing through cashmere goats. The breeding of more than 20 million cashmere goats is the principal cause of the massive desertification threatening 90% of the surface of the country.",
+    "position": 22
+  },
+  {
+    "is_sustainable": false,
+    "name": "Polyester",
+    "description": "Polyester: Polyester is the most common fiber in our garment. We can find it in 52% of our clothes.Polyester is a synthetic fiber derived from petroleum, a nonrenewable fossil fuel.  As we know, the transformation of crude oil into petrochemicals releases toxins into the atmosphere that are dangerous for human and ecosystem health.The production of polyester also highly energy intensive.One of the major problems with this plastic fiber, is the fact that it is non-biodegradable. Learn more about fashion & wastes...Furthermore, each time we wash a polyester garment, it releases 700.000 plastic microfibers, ending up in rivers and oceans and then in our food chain. Learn more..",
+    "position": 23
+  },
+  {
+    "is_sustainable": false,
+    "name": "Rayon, Viscose, Modal",
+    "description": "Rayon, Viscose, Modal: Rayon is a fiber from regenerated cellulose, generally derived from wood pulp. Rayon is usually made from eucalyptus trees, but any plant can be used (such as bamboo, soy, cotton, etc). To produce the fiber, the plant cellulose goes through a process involving a lot of chemicals, energy and water.  Solvents used during the process can be very toxic to humans and to the environment. Viscose, modal, lyocell and bamboo are different types of rayon.  The other substantial environmental concerns arising from rayon production is the massive deforestation involved. Thousands of hectares of rainforest are cut down each year to plant trees specifically used to make rayon. Only a very small percentage of this wood is obtained through sustainable forestry practices.    Viscose (also called Artificial Silk or Art Silk) is the most common type of rayon. Viscose production involves a lot of chemicals, heavily harmful to the environment when they are released in effluents.Modal, another type of rayon using beech trees with a similar process to viscose. The company Lenzing, selling modal under Lenzing Modal® only uses trees from sustainably harvested forests (PEFC certified) and employs an eco-friendly bleaching method. However modal is produced by many other manufacturers who don’t necessarily use sustainable processes.Cupro is a rayon fiber from cotton wastes, which is a sustainable aspect. But it still undergoes a chemical process to be transformed, leading to negative consequences for the environment.",
+    "position": 24
+  },
+  {
+    "is_sustainable": false,
+    "name": "Other Synthetic Fibers",
+    "description": "Other Synthetic Fibers: Acrylic, polyamide, nylon, polypropylene, PVC, spandex (AKA lycra or elastane), aramide, etc, are all different types of synthetic fibers that are derived from petroleum and therefore have a very similar impact on the environment as polyester.",
+    "position": 25
+  },
+  {
+    "is_sustainable": false,
+    "name": "Bamboo",
+    "description": "Bamboo: Bamboo is usually sold as an eco-friendly textile. Which is partially true, as the bamboo plant is potentially one of the world's most sustainable resource. It grows very quickly and easily, it doesn’t need pesticide or fertilizers, and it doesn’t need to be replanted after harvest because it grows new sprouts from the roots. However, to turn bamboo into fiber, bamboo is processed with strong chemical solvents that are potentially harmful to the health of manufacturing workers, the consumers wearing the garment, and for the environment when chemicals are released in wastewater. Bamboo fabric is a type of rayon often called \"bamboo rayon\". ",
+    "position": 26
+  },
+  {
+    "is_sustainable": false,
+    "name": "Vegan Leather",
+    "description": "Vegan Leather: Vegan leather is usually made of PVC or  polyurethane, which are synthetic fibers that have a similar environmental impact to polyester. It is certainly better for animal welfare, but it is not an eco-friendly option.However, some plant-based substitutes of leather exist, such as the pineapple fiber.",
+    "position": 27
+  }
+]
