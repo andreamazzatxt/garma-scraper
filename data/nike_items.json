@@ -1,6 +1,1922 @@
 [
   {
     "brand": "NIKE",
+    "name": "Jordan Flight Fleece",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "CV2366-687",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/61dc3c15-b154-4398-b942-092f818e0a27/jordan-flight-fleece-graphic-pullover-hoodie-kXKhHg.jpg",
+    "composition": [
+      {
+        "percentage": "82",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "18",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 1
+  },
+  {
+    "brand": "NIKE",
+    "name": "Jordan 23 Engineered",
+    "department": "man",
+    "article_type": "Trousers",
+    "article_number": "CZ8274-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/624dfda9-85b6-48a6-9f68-1d0e815ca5d5/jordan-23-engineered-fleece-trousers-nxq5cL.jpg",
+    "composition": [
+      {
+        "percentage": "66",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "34",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 2
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Court",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "DM3154-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c568a64e-2fed-4e3f-9492-e79d13e1906e/sportswear-court-fleece-pullover-hoodie-KBtknm.jpg",
+    "composition": [
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "100",
+        "fiber": "cotton"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 3
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Air Max",
+    "department": "man",
+    "article_type": "Trousers",
+    "article_number": "DC2552-320",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4655d4e0-c037-4aec-8ffc-f2f9ace3b7c7/sportswear-air-max-fleece-trousers-dSCSCj.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 4
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Club Fleece",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "DJ6632-321",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0cb0f4f6-fe01-4f8c-8086-8d0831134c2a/sportswear-club-fleece-pullover-hoodie-3wJ34T.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 5
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Court",
+    "department": "man",
+    "article_type": "Trousers",
+    "article_number": "DM3159-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7343dd42-7005-45b9-aca9-51c2a124857d/sportswear-court-fleece-cargo-trousers-j1rb4L.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 6
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Yoga Nomad",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "CZ2219-410",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/512659b9-c30e-4ce4-bcb9-eee15215d7b5/yoga-nomad-pullover-hoodie-T23dZg.jpg",
+    "composition": [
+      {
+        "percentage": "62",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "35",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "5",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 7
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Tech Fleece",
+    "department": "man",
+    "article_type": "Joggers",
+    "article_number": "CU4495-410",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f218ca5c-6f9d-4743-9270-f16cf6442e63/sportswear-tech-fleece-joggers-JRcKK7.jpg",
+    "composition": [
+      {
+        "percentage": "66",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "34",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 8
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Club Fleece",
+    "department": "man",
+    "article_type": "Crew",
+    "article_number": "DJ6633-539",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8ee7419d-28d6-4257-8367-879e3df0ffc2/sportswear-club-fleece-crew-gZJ1n9.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 9
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Club Fleece",
+    "department": "man",
+    "article_type": "Joggers",
+    "article_number": "BV2671-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9b0fbd6e-4452-43c6-84ff-a114c69fe532/sportswear-club-fleece-joggers-6wr1Jb.jpg",
+    "composition": [
+      {
+        "percentage": "82",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 10
+  },
+  {
+    "brand": "NIKE",
+    "name": "NikeCourt Dri-FIT",
+    "department": "man",
+    "article_type": "Polo",
+    "article_number": "CW6288-301",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f5d5e177-14a2-42d8-9ab7-3b99ea55222e/nikecourt-dri-fit-tennis-polo-rLMWc4.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 11
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Phenom Elite",
+    "department": "man",
+    "article_type": "Trousers",
+    "article_number": "CZ9058-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8734918c-4510-428a-a385-54343a763dea/phenom-elite-woven-trail-running-trousers-DzXpDF.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 12
+  },
+  {
+    "brand": "NIKE",
+    "name": "NikeCourt HyperAdapt Advantage",
+    "department": "man",
+    "article_type": "Jacket",
+    "article_number": "CV2798-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f745e440-f753-4820-ab65-e9389d2badbc/nikecourt-hyperadapt-advantage-packable-tennis-jacket-TLxGgv.jpg",
+    "composition": [
+      {
+        "percentage": "89",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "11",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 13
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Flex Stride",
+    "department": "man",
+    "article_type": "Shorts",
+    "article_number": "CJ5459-467",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/06d218bf-928f-4702-a9d0-5d897391203e/flex-stride-brief-running-shorts-0SzmZc.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 14
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Club Fleece",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "BV2654-410",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/njqltik2pun0qj9nhoor/sportswear-club-fleece-pullover-hoodie-39qLnk.jpg",
+    "composition": [
+      {
+        "percentage": "82",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 15
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Phenom Elite",
+    "department": "man",
+    "article_type": "Tights",
+    "article_number": "CZ8823-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ba49c969-a5e1-40c6-b36c-3ad779cca383/phenom-elite-running-tights-QbFrtG.jpg",
+    "composition": [
+      {
+        "percentage": "75",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "25",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 16
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike SB",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "CV4328-224",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a702fb3-83c6-44e9-a522-4643b95dcb03/sb-graphic-skate-hoodie-pZ5hfF.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "cotton"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 17
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear",
+    "department": "man",
+    "article_type": "Joggers",
+    "article_number": "DC0719-247",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b3ce5fdd-203d-4cc7-abee-d2e4d4d229f7/sportswear-fleece-joggers-VB2FPQ.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 18
+  },
+  {
+    "brand": "NIKE",
+    "name": "Jordan Jumpman Air",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "CK6679-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d1972580-417d-4aca-aee5-2995151f20cd/jordan-jumpman-air-fleece-hoodie-Jh5rd4.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 19
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike SB",
+    "department": "man",
+    "article_type": "Bottoms",
+    "article_number": "CV4332-224",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e0b5ac84-868d-47f7-a40b-21e4b6990bdd/sb-graphic-skate-tracksuit-bottoms-0kSqww.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "nylon"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 20
+  },
+  {
+    "brand": "NIKE",
+    "name": "Jordan 'Why Not?'",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "DD3319-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fa50850c-c171-4d0e-bbbe-9f0bb6a09c2c/jordan-why-not-fleece-hoodie-JnTtxt.jpg",
+    "composition": [
+      {
+        "percentage": "82",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "18",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 21
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear",
+    "department": "man",
+    "article_type": "Joggers",
+    "article_number": "CU4457-230",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a5b28f54-a366-4223-94b3-78617efdc27c/sportswear-modern-joggers-dhDCQv.jpg",
+    "composition": [
+      {
+        "percentage": "71",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "58",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 22
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Tech Fleece",
+    "department": "man",
+    "article_type": "Hoodie",
+    "article_number": "CU4489-677",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/bfbb4bb7-3b91-49fe-af06-89c5af998ee5/sportswear-tech-fleece-hoodie-jMmfqR.jpg",
+    "composition": [
+      {
+        "percentage": "66",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "34",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 23
+  },
+  {
+    "brand": "NIKE",
+    "name": "Paris Saint-Germain",
+    "department": "man",
+    "article_type": "Pants",
+    "article_number": "CZ0818-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/53c4cd35-41e4-4b99-9b49-3d7aba0422dd/paris-saint-germain-fleece-pants-Ll15b1.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 24
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Swoosh",
+    "department": "woman",
+    "article_type": "Jacket",
+    "article_number": "CZ8898-645",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/46de0daa-34e3-4650-a051-1ebe067295a3/sportswear-swoosh-woven-jacket-lzxH14.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 25
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Swoosh",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "CZ8909-645",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b30396dd-042d-42a7-9a5b-ed5b109ccea6/sportswear-swoosh-woven-trousers-bdj3NG.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 26
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Windrunner",
+    "department": "woman",
+    "article_type": "Jacket",
+    "article_number": "CZ9538-468",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5bc36a91-c439-4bfb-9413-10995c1fe718/windrunner-packable-trail-running-jacket-d9DkJH.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 27
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Flex Essential 2-in-1",
+    "department": "woman",
+    "article_type": "Shorts",
+    "article_number": "DA0453-011",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/174f858b-4baa-4f08-8fc1-e9fd0acbdb1d/flex-essential-2-in-1-training-shorts-VwCWjH.jpg",
+    "composition": [
+      {
+        "percentage": "88",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "12",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 28
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear",
+    "department": "woman",
+    "article_type": "Fleece",
+    "article_number": "DM3835-676",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/032de7df-502b-4a8c-bbaf-84438e51d5b3/sportswear-1-4-zip-fleece-tJxp4V.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 29
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike FE/NOM Flyknit",
+    "department": "woman",
+    "article_type": "Bra",
+    "article_number": "AJ4047-701",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1fcd1669-f1bf-4525-8530-0b208d294d47/fe-nom-flyknit-high-support-non-padded-sports-bra-g9XLWw.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "nylon"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 30
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Swoosh Run",
+    "department": "woman",
+    "article_type": "Leggings",
+    "article_number": "DA1145-531",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/bcf3933c-18ea-4ab5-ba9c-31f312a2f3ca/swoosh-run-running-leggings-m8Jd1C.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "20",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 31
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Essential",
+    "department": "woman",
+    "article_type": "Crew",
+    "article_number": "BV4110-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d97137c4-08bf-4e02-8f09-39f68533bcbe/sportswear-essential-fleece-crew-2g4XVv.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 32
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "DD9686-685",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a39afac-afdf-41dd-aee5-ba49ba6c900b/sportswear-printed-trousers-lLN8cQ.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 33
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Windrunner",
+    "department": "woman",
+    "article_type": "Jacket",
+    "article_number": "BV3939-101",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/zin5aecazrzizixfcxbi/sportswear-windrunner-jacket-R13l3T.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 34
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air",
+    "department": "woman",
+    "article_type": "Leggings",
+    "article_number": "CZ8622-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e3f210a2-958e-4904-8fc5-ffe6e59897f9/air-leggings-72nwjx.jpg",
+    "composition": [
+      {
+        "percentage": "61",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "33",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "6",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 35
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Tech Fleece Windrunner",
+    "department": "woman",
+    "article_type": "Hoodie",
+    "article_number": "CW4298-645",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/55eb0540-1ea4-49f6-af67-3c8dccc91ab6/sportswear-tech-fleece-windrunner-hoodie-3jcHXn.jpg",
+    "composition": [
+      {
+        "percentage": "69",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "31",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 36
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Tech Fleece",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "CW4292-645",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0d3d25fb-03a0-49b3-8e6e-989e8b93025b/sportswear-tech-fleece-trousers-LGl9Fl.jpg",
+    "composition": [
+      {
+        "percentage": "69",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "31",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 37
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Pro",
+    "department": "woman",
+    "article_type": "Hoodie",
+    "article_number": "DA0530-673",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0001fd67-252c-45e8-88ee-e1877d872b15/pro-hoodie-WHzwDD.jpg",
+    "composition": [
+      {
+        "percentage": "93",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "7",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 38
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Pro",
+    "department": "woman",
+    "article_type": "Leggings",
+    "article_number": "CZ9779-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ae877bd7-8422-495b-8841-1d2c1f999788/pro-tights-TL3qlq.jpg",
+    "composition": [
+      {
+        "percentage": "83",
+        "fiber": "polyester"
+      },
+      {
+        "percentage": "17",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 39
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Essential",
+    "department": "woman",
+    "article_type": "Hoodie",
+    "article_number": "BV4124-063",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/le0ccwkh9szrfraumdmc/sportswear-essential-fleece-pullover-hoodie-cPBcRd.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 40
+  },
+  {
+    "brand": "NIKE",
+    "name": "Jordan Future Primal",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "DA1527-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f90e92d4-52bb-49ee-91fc-63d0b08f050a/jordan-future-primal-utility-trousers-bw4G8f.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 41
+  },
+  {
+    "brand": "NIKE",
+    "name": "Korea 2020 Stadium Home",
+    "department": "woman",
+    "article_type": "Shirt",
+    "article_number": "CU6223-653",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c7e689da-470f-44c5-a003-035b82f36b6c/korea-2020-stadium-home-football-shirt-7z8PrM.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "recycled polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 42
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear",
+    "department": "woman",
+    "article_type": "Leggings",
+    "article_number": "DM3277-010",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b3318c57-0074-4c05-b445-c29018627b43/sportswear-printed-high-rise-leggings-tJkSDq.jpg",
+    "composition": [
+      {
+        "percentage": "92",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "8",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 43
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Swoosh Luxe",
+    "department": "woman",
+    "article_type": "Bra",
+    "article_number": "CJ0544-320",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/702b1736-a308-4f3e-86c1-0c5ce7c165b5/swoosh-luxe-support-padded-longline-sports-bra-vDkNdQ.jpg",
+    "composition": [
+      {
+        "percentage": "72",
+        "fiber": "nylon"
+      },
+      {
+        "percentage": "28",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 44
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike ESC",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "CW3743-277",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d7f572a5-52fa-4d7e-b436-541c43d21793/esc-tailored-sneaker-trousers-m30pw5.jpg",
+    "composition": [
+      {
+        "percentage": "88",
+        "fiber": "nylon"
+      },
+      {
+        "percentage": "12",
+        "fiber": "elastane"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 45
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Sportswear Essential",
+    "department": "woman",
+    "article_type": "Crew",
+    "article_number": "CK0168-325",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ab311276-05a0-4e93-9a4b-825112ae8e83/sportswear-essential-fleece-crew-D8nF42.jpg",
+    "composition": [
+      {
+        "percentage": "80",
+        "fiber": "cotton"
+      },
+      {
+        "percentage": "20",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 46
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Swoosh Fly",
+    "department": "woman",
+    "article_type": "Trousers",
+    "article_number": "CZ3953-084",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a916d912-6aca-4c3c-98a1-2a032337e49c/swoosh-fly-basketball-trousers-tdmzcS.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "polyester"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 47
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike SB",
+    "department": "woman",
+    "article_type": "Hoodie",
+    "article_number": "CV4328-224",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a702fb3-83c6-44e9-a522-4643b95dcb03/sb-graphic-skate-hoodie-pZ5hfF.jpg",
+    "composition": [
+      {
+        "percentage": "100",
+        "fiber": "cotton"
+      }
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 48
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 '07",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "315115-152",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ckykef7ov0iiv3oo8fcg/air-force-1-07-shoe-ZVdbrM.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 49
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 270",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "AH6789-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c7417ca-f5d8-4b0f-97ed-576b2f0273da/air-max-270-shoe-rDQ1Kt.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 50
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Blazer Mid '77 Vintage",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CZ1055-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cff8f233-33f6-4836-a0ed-0baf153701a5/blazer-mid-77-vintage-shoe-4LTRzh.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 51
+  },
+  {
+    "brand": "NIKE",
     "name": "Nike Blazer Mid '77",
     "department": "woman",
     "article_type": "Shoe",
@@ -29,71 +1945,7 @@
         }
       ]
     },
-    "position": 1
-  },
-  {
-    "brand": "NIKE",
-    "name": "Nike Air Max Plus",
-    "department": "woman",
-    "article_type": "Shoe",
-    "article_number": "DJ4601-100",
-    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0fceed5a-bbbc-4fdb-91a0-b3abf2659ac4/air-max-plus-shoe-Z2KjHq.jpg",
-    "composition": [
-
-    ],
-    "supplier": {
-      "exist?": false,
-      "name": "n/a",
-      "country": "n/a",
-      "address": "n/a",
-      "alternative": [
-        {
-          "country": "Viet Nam",
-          "number_factory": 97
-        },
-        {
-          "country": "China Mainland",
-          "number_factory": 80
-        },
-        {
-          "country": "United States of America",
-          "number_factory": 33
-        }
-      ]
-    },
-    "position": 2
-  },
-  {
-    "brand": "NIKE",
-    "name": "Nike Air Max 90 AX",
-    "department": "woman",
-    "article_type": "Shoe",
-    "article_number": "DH4115-100",
-    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4594b73a-348a-4735-901b-f694cc711d48/air-max-90-ax-shoe-lq1hZn.jpg",
-    "composition": [
-
-    ],
-    "supplier": {
-      "exist?": false,
-      "name": "n/a",
-      "country": "n/a",
-      "address": "n/a",
-      "alternative": [
-        {
-          "country": "Viet Nam",
-          "number_factory": 97
-        },
-        {
-          "country": "China Mainland",
-          "number_factory": 80
-        },
-        {
-          "country": "United States of America",
-          "number_factory": 33
-        }
-      ]
-    },
-    "position": 3
+    "position": 52
   },
   {
     "brand": "NIKE",
@@ -125,7 +1977,7 @@
         }
       ]
     },
-    "position": 4
+    "position": 53
   },
   {
     "brand": "NIKE",
@@ -157,6 +2009,1030 @@
         }
       ]
     },
-    "position": 5
+    "position": 54
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Verona SE",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CW5343-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6d767069-41b8-4698-a27f-7826bc2ddd3d/air-max-verona-se-shoe-7tZr5x.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 55
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90 NS SE",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CV8824-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/24e8de47-7786-4408-81e0-f4dafd2c05a3/air-max-90-se-shoe-sgnN2d.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 56
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus Premium",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "848891-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d0f11fbf-2df5-468d-9e7d-8a265227c832/air-max-plus-shoe-zhlC1g.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 57
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CQ2560-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fabk7yxannozsq0igud9/air-max-90-shoe-HpSd3T.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 58
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90 EOI",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DD1500-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/30eea1d4-c2e7-464d-bcb4-a8dd533ab300/air-max-90-eoi-shoe-qVnX5m.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 59
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CZ0366-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-41f70c83-104d-497d-827a-d4ff073ed0ea/air-max-90-shoe-xgwkc8.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 60
+  },
+  {
+    "brand": "NIKE",
+    "name": "Jordan Zoom '92",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CK9184-102",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d4fa99a5-3a39-449c-b9ac-b40bed4535a1/jordan-zoom-92-shoe-Zpv4HG.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 61
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 90 AX",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DH4115-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4594b73a-348a-4735-901b-f694cc711d48/air-max-90-ax-shoe-lq1hZn.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 62
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DJ4601-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/0fceed5a-bbbc-4fdb-91a0-b3abf2659ac4/air-max-plus-shoe-Z2KjHq.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 63
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 '07",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DD8959-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-shoe-ZWJrWC.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 64
+  },
+  {
+    "brand": "NIKE",
+    "name": "Air Jordan 1 Mid",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "BQ6472-110",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/359ca9f3-5230-4734-a70b-eb645f574e0a/air-jordan-1-mid-shoe-mKKzf4.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 65
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 Shadow",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CI0919-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/odhlk8ksqmstmdcjjyn0/air-force-1-shadow-shoe-M8SqJM.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 66
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Court Vision Low",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CD5434-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/eey4dmk7yw3vx7zn9qlm/court-vision-low-shoe-S1KCMW.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 67
+  },
+  {
+    "brand": "NIKE",
+    "name": "NikeCourt Royale 2",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CU9038-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8fe01caa-0bb1-4907-9a55-a0649d1f86f4/nikecourt-royale-2-shoe-47wdNH.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 68
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Court Vision Mid",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CD5436-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/hladkwecfme0otfsd0ra/court-vision-mid-shoe-h5rD1h.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 69
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Blazer Mid '77 SE",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DA8736-101",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a2b0ead-4810-47a8-acad-85a58477dd7a/blazer-mid-77-se-shoe-5SMLpg.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 70
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Blazer Mid '77",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "DD6610-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/742ab50c-9eeb-4765-91b9-07f0a0e68bc2/blazer-mid-77-shoe-WXJxgB.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 71
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 '07 Essential",
+    "department": "woman",
+    "article_type": "Shoe",
+    "article_number": "CT1989-700",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d0fa4bee-c6e0-4b6e-a9bc-824e4117e1d5/air-force-1-07-essential-shoe-7dhFV6.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 72
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air VaporMax Evo",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "CT2868-002",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d7abd19c-b69f-4de5-9ed3-dd7763435147/air-vapormax-evo-shoe-h0kHH7.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 73
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 95 EOI",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "CW6575-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50ceb5ec-ba7d-4396-b8e3-55b3cf0bcdfb/air-max-95-eoi-shoe-KlsN8d.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 74
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus EOI",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "DA5561-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ed5ce78d-6e51-4654-a9a9-ede8c2244799/air-max-plus-eoi-shoe-7SQL5P.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 75
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Blazer Mid '77 Vintage",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "BQ6806-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fb7eda3c-5ac8-4d05-a18f-1c2c5e82e36e/blazer-mid-77-vintage-shoe-pMfjs8.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 76
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "604133-139",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/lx0owmisj943sr59emb8/air-max-plus-shoe-v371c8.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 77
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Plus III",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "DH4107-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/29653fd1-c31e-4e2c-a32f-4ca5bcbf71f6/air-max-plus-iii-shoe-r9QTqn.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 78
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 97",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "921826-101",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a47b2ef9-8239-4e82-99fd-e6159c0df489/air-max-97-shoe-nsRddC.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 79
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike React Vision",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "CD4373-101",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ac5fccb3-b601-44f6-98b0-7e9b6fe9bb1f/react-vision-shoe-4cb8Sx.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 80
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max Bolt",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "CU4151-104",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3f80d884-a4d9-473d-8e56-5ba21a68a50a/air-max-bolt-shoe-CLD2zs.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 81
+  },
+  {
+    "brand": "NIKE",
+    "name": "Air Max 90 LTR",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "CZ5594-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7b6ccd0a-2e86-4fac-8f13-a0d11c5f90df/air-max-90-ltr-shoe-Qx4zmB.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 82
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Force 1 GORE-TEX ®",
+    "department": "man",
+    "article_type": "Boot",
+    "article_number": "DH4096-001",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c9314b96-076f-431b-9431-2d369b9b11c6/air-force-1-gore-tex-boot-jrsLlg.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 83
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 270",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "DD7120-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/34df8de9-c3d4-474b-bcdf-f141b89c7ef0/air-max-270-shoe-Xx2QfF.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 84
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 97",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "DH4105-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/846eb170-d64f-4de5-9651-a3e1562f8ad6/air-max-97-shoe-bvXQLh.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 85
+  },
+  {
+    "brand": "NIKE",
+    "name": "Nike Air Max 270",
+    "department": "man",
+    "article_type": "Shoe",
+    "article_number": "AH8050-100",
+    "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/awjogtdnqxniqqk0wpgf/air-max-270-shoe-62kcVV.jpg",
+    "composition": [
+
+    ],
+    "supplier": {
+      "exist?": false,
+      "name": "n/a",
+      "country": "n/a",
+      "address": "n/a",
+      "alternative": [
+        {
+          "country": "Viet Nam",
+          "number_factory": 97
+        },
+        {
+          "country": "China Mainland",
+          "number_factory": 80
+        },
+        {
+          "country": "United States of America",
+          "number_factory": 33
+        }
+      ]
+    },
+    "position": 86
   }
 ]

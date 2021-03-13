@@ -3,11 +3,12 @@ require_relative 'scraper_helpers'
 
 class PatagoniaSpider < Kimurai::Base
   #Limit object scraped
-  LIMIT = 1
+  LIMIT = 30
   BRAND = 'PATAGONIA'
   @name = 'patagonia_spider'
   @engine = :selenium_chrome
-  @start_urls = ['https://eu.patagonia.com/it/en/shop/mens']
+  @start_urls = ['https://eu.patagonia.com/it/en/shop/mens',
+                 'https://eu.patagonia.com/it/en/shop/womens']
   @config = {
     user_agent: -> { Helper::USER_AGENTS.sample }
   }
@@ -56,9 +57,11 @@ class PatagoniaSpider < Kimurai::Base
   end
 
   def get_article_number(response)
+    if response
     response.css('.buy-config__title')
             .css('span').last.text
             .match(/No\.\s(\d+)/)[1]
+    end
   end
 
   def get_img_link(response)

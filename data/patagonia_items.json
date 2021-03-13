@@ -1,60 +1,96 @@
 [
   {
     "brand": "PATAGONIA",
-    "name": "Men's DAS® Light Hoody",
+    "name": "Men's Storm10 Jacket",
     "depatment": "man",
-    "article_type": "sweathirt",
-    "article_number": "85300",
+    "article_type": "jacket",
+    "article_number": "85125",
     "composition": [
       {
         "percentage": 0,
-        "fiber": "nylon ripstop"
+        "fiber": "recycled nylon"
       }
     ],
-    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw5214f7ca/images/hi-res/85300_CHRT_MR1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwc5b5bf7f/images/hi-res/85125_CHRT_TM1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
     "supplier": [
-      {
-        "exist?": true,
-        "name": "Quang Viet Enterprise Co., Ltd.",
-        "country": "Vietnam",
-        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
-      },
-      {
-        "exist?": true,
-        "name": "Toyota Tsusho",
-        "country": "Japan",
-        "address": "Chuo-ku, Osaka, Japan"
-      }
+
     ],
     "position": 1
   },
   {
     "brand": "PATAGONIA",
-    "name": "Men's Micro Puff® Hoody",
+    "name": "Men's Ascensionist Jacket",
     "depatment": "man",
-    "article_type": "sweathirt",
-    "article_number": "84030",
+    "article_type": "jacket",
+    "article_number": "85230",
     "composition": [
       {
         "percentage": 0,
-        "fiber": "nylon ripstop"
+        "fiber": "recycled nylon"
       }
     ],
-    "img": "http://i.ytimg.com/vi/nxGJkwGjyJk/maxresdefault.jpg",
+    "img": "http://i.ytimg.com/vi/VL_bfwkQLi0/maxresdefault.jpg",
     "supplier": [
-      {
-        "exist?": true,
-        "name": "Quang Viet Enterprise Co., Ltd.",
-        "country": "Vietnam",
-        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
-      },
-      {
-        "exist?": true,
-        "name": "Toyota Tsusho",
-        "country": "Japan",
-        "address": "Chuo-ku, Osaka, Japan"
-      }
+
     ],
     "position": 2
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Triolet Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "83402",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/CuH1U-MngVY/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 3
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Rainshadow Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "85115",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      },
+      {
+        "percentage": 13,
+        "fiber": "biobased content"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ae0JtrEgqpA/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 4
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Calcite Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "84986",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/TEPo5Dyqwm8/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 5
   }
 ]
