@@ -4,7 +4,7 @@ require_relative 'scraper_helpers'
 class HmSpider < Kimurai::Base
   # Limit the N. of Articles Scraped per section (see start_urls)
   BRAND = 'HM'
-  LIMIT = 5
+  LIMIT = 2
   USER_AGENTS = ["Chrome", "Firefox", "Safari", "Opera"]
   @name = "hm_spider"
   @engine = :selenium_chrome
@@ -41,14 +41,14 @@ class HmSpider < Kimurai::Base
     item[:img] = get_img_link(response)
     # Opens Product Background Modal
     if browser.find_button('PRODUCT BACKGROUND').visible?
-      browser.click_button('PRODUCT BACKGROUND')
-      browser.click_button('Suppliers and factories for this product.')
+        browser.click_button('PRODUCT BACKGROUND')
+        browser.click_button('Suppliers and factories for this product.')
     end
     # Re Assign response with the current one (with modal open)
     response = browser.current_response
 
     # Scrape Supplier Info
-    item[:supplier] = get_supplier_info(response)
+    item[:suppliers] = get_supplier_info(response)
     save_to './data/hm_items.json', item, format: :pretty_json
   end
 
@@ -84,8 +84,9 @@ class HmSpider < Kimurai::Base
         percentage: composition.split(' ')[1].gsub('%', '').to_i,
         fiber: composition.split(' ')[0].downcase
       }
-    Helper.reduce_composition(compositions)
     end
+    p compositions
+    Helper.reduce_composition(compositions)
   end
 
   def get_img_link(response)
@@ -97,7 +98,7 @@ class HmSpider < Kimurai::Base
   def get_supplier_info(response)
     # some items doesn't have info about the supplier
     exist = response.css('#portal').any?
-    {
+    [] << {
       exist?: exist,
       name: exist ? response.css('#portal').css('article').css('h4').text : 'n/a',
       country: exist ? response.css('#portal').css('h3')[-1].text : 'n/a',

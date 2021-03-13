@@ -14,6 +14,7 @@ class Helper
   end
 
   def self.reduce_composition(array)
+    p array
     count = 0
     new_array = []
     array.each do |composition|
