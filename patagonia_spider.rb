@@ -10,7 +10,7 @@ class PatagoniaSpider < Kimurai::Base
   @start_urls = ['https://eu.patagonia.com/it/en/shop/mens',
                  'https://eu.patagonia.com/it/en/shop/womens']
   @config = {
-    user_agent: -> { Helper::USER_AGENTS.sample }
+    user_agent: -> { Helper::USER_AGENTS.sample },
   }
 
   def parse(response, url:, data: {})
@@ -57,11 +57,9 @@ class PatagoniaSpider < Kimurai::Base
   end
 
   def get_article_number(response)
-    if response
     response.css('.buy-config__title')
             .css('span').last.text
             .match(/No\.\s(\d+)/)[1]
-    end
   end
 
   def get_img_link(response)
@@ -99,7 +97,7 @@ class PatagoniaSpider < Kimurai::Base
     {
       "exist?": true,
       "name": response.css('.hero-main__headline').text.gsub(/\n/, ''),
-      "country": response.css('.hero-main__subhead').text.match( /, (\w+)$/)[1],
+      "country": response.css('.hero-main__subhead').text.match(/, (\w+)$/)[1],
       "address": response.css('.hero-main__subhead').text
     }
   end

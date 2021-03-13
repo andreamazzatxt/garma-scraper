@@ -4,7 +4,7 @@ require_relative 'scraper_helpers'
 class HmSpider < Kimurai::Base
   # Limit the N. of Articles Scraped per section (see start_urls)
   BRAND = 'HM'
-  LIMIT = 2
+  LIMIT = 30
   USER_AGENTS = ["Chrome", "Firefox", "Safari", "Opera"]
   @name = "hm_spider"
   @engine = :selenium_chrome
@@ -26,7 +26,7 @@ class HmSpider < Kimurai::Base
       request_to :parse_product, url: "https://www2.hm.com#{link}", data: { dep: department }
     end
     # Uncomment the following line to test one product (comment the rest of the method!)
-    # request_to :parse_product, url: "https://www2.hm.com/en_gb/productpage.0962908001.html"
+    # request_to :parse_product, url: "https://www2.hm.com/en_gb/productpage.0927294002.html"
   end
 
   def parse_product(response, url:, data: {})
@@ -41,15 +41,19 @@ class HmSpider < Kimurai::Base
     item[:img] = get_img_link(response)
     # Opens Product Background Modal
     if browser.find_button('PRODUCT BACKGROUND').visible?
-        browser.click_button('PRODUCT BACKGROUND')
+      browser.click_button('PRODUCT BACKGROUND')
+      if browser.has_button?('Suppliers and factories for this product.')
         browser.click_button('Suppliers and factories for this product.')
+        response = browser.current_response
+        item[:suppliers] = get_supplier_info(response, true)
+      else
+        item[:suppliers] = get_supplier_info(response, false)
+      end
     end
-    # Re Assign response with the current one (with modal open)
-    response = browser.current_response
 
     # Scrape Supplier Info
-    item[:suppliers] = get_supplier_info(response)
-    save_to './data/hm_items.json', item, format: :pretty_json
+
+    save_to './data/hm_PROVA.json', item, format: :pretty_json
   end
 
   private
@@ -85,7 +89,6 @@ class HmSpider < Kimurai::Base
         fiber: composition.split(' ')[0].downcase
       }
     end
-    p compositions
     Helper.reduce_composition(compositions)
   end
 
@@ -95,9 +98,9 @@ class HmSpider < Kimurai::Base
     "https:#{img_link}"
   end
 
-  def get_supplier_info(response)
+  def get_supplier_info(response, found)
     # some items doesn't have info about the supplier
-    exist = response.css('#portal').any?
+    exist = response.css('#portal').any? && found
     [] << {
       exist?: exist,
       name: exist ? response.css('#portal').css('article').css('h4').text : 'n/a',
@@ -107,5 +110,5 @@ class HmSpider < Kimurai::Base
     }
   end
 end
-# https://www2.hm.com/en_gb/ladies/shop-by-product/view-all.html
+
 HmSpider.crawl!

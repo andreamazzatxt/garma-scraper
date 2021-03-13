@@ -92,5 +92,563 @@
 
     ],
     "position": 5
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Calcite Pants",
+    "depatment": "man",
+    "article_type": "pant",
+    "article_number": "85000",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/Vu85JuxSzz8/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 6
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Storm Racer Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "24111",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/0QGzkqTd_lk/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 7
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Torrentshell 3L Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "85240",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      },
+      {
+        "percentage": 13,
+        "fiber": "biobased content"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/c8Zy9_1vKX4/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 8
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Hi-Loft Down Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84902",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/5n_hkdu9pF0/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 9
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Insulated Fjord Flannel Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "27640",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "organic cotton"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 10
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Tres 3-in-1 Parka",
+    "depatment": "man",
+    "article_type": "parka",
+    "article_number": "28388",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "polyester "
+      },
+      {
+        "percentage": 50,
+        "fiber": "recycled"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/gEAEHw4hOAU/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 11
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's City Storm Rain Parka",
+    "depatment": "man",
+    "article_type": "parka",
+    "article_number": "20700",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/DTZ9_6M_Pmk/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 12
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Pack In Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "20945",
+    "composition": [
+      {
+        "percentage": 91,
+        "fiber": "recycled polyester"
+      },
+      {
+        "percentage": 9,
+        "fiber": "elastane solid"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw7f7215c7/images/hi-res/20945_NENA_TM1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 13
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Lightweight Better Sweater™ Fleece Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "26075",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw72fff12e/images/hi-res/26075_NENA_KT1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 14
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Lightweight Better Sweater™ Fleece Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "26085",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw71f9174e/images/hi-res/26085_SPRB_SJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 15
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Woolyester Fleece Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "26935",
+    "composition": [
+      {
+        "percentage": 46,
+        "fiber": "recycled wool"
+      },
+      {
+        "percentage": 46,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "nylon"
+      },
+      {
+        "percentage": 4,
+        "fiber": "other fiber"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw6240985f/images/hi-res/26935_OAT_MK1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 16
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's DAS® Light Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "85300",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw5214f7ca/images/hi-res/85300_CHRT_MR1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 17
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Micro Puff® Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84030",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/nxGJkwGjyJk/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 18
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Micro Puff® Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "84065",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/7fTeUnsEHno/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 19
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Micro Puff® Vest",
+    "depatment": "man",
+    "article_type": "vest",
+    "article_number": "84075",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/OZC4BP58ET8/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 20
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "84212",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/I5aJ9AYV2fU/maxresdefault.jpg",
+    "supplier": [
+      {
+        "exist?": true,
+        "name": "Quang Viet Enterprise Co., Ltd.",
+        "country": "Vietnam",
+        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+      },
+      {
+        "exist?": true,
+        "name": "Toyota Tsusho",
+        "country": "Japan",
+        "address": "Chuo-ku, Osaka, Japan"
+      }
+    ],
+    "position": 21
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84222",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 22
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Vest",
+    "depatment": "man",
+    "article_type": "vest",
+    "article_number": "84242",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/-3mBBRQMNiM/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 23
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano-Air® Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "84252",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "polyester "
+      },
+      {
+        "percentage": 87,
+        "fiber": "recycled"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/3jUlKjpxn6c/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 24
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84222",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 25
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Vest",
+    "depatment": "man",
+    "article_type": "vest",
+    "article_number": "84242",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/-3mBBRQMNiM/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 26
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Hoody",
+    "depatment": "man",
+    "article_type": "sweathirt",
+    "article_number": "84222",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
+    "supplier": [
+      {
+        "exist?": true,
+        "name": "Quang Viet Enterprise Co., Ltd.",
+        "country": "Vietnam",
+        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+      },
+      {
+        "exist?": true,
+        "name": "Toyota Tsusho",
+        "country": "Japan",
+        "address": "Chuo-ku, Osaka, Japan"
+      }
+    ],
+    "position": 27
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Men's Nano Puff® Jacket",
+    "depatment": "man",
+    "article_type": "jacket",
+    "article_number": "84212",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/I5aJ9AYV2fU/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 28
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Triolet Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "83407",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/1uEKbzZHc1Y/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 29
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Ascensionist Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "85235",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ZFF_LICqs9g/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 30
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Storm10 Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "85130",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw57bf3bd9/images/hi-res/85130_SMDB_BH1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 31
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Rainshadow Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "85120",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled nylon"
+      },
+      {
+        "percentage": 13,
+        "fiber": "biobased content"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/Rymj5_nzFcE/maxresdefault.jpg",
+    "supplier": [
+
+    ],
+    "position": 32
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Calcite Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84996",
+    "composition": [
+      {
+        "percentage": 0,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe2c91f6b/images/hi-res/84996_CNY_BJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": [
+
+    ],
+    "position": 33
   }
 ]

@@ -17,6 +17,7 @@ class NikeSpider < Kimurai::Base
                  'https://www.nike.com/gb/w/mens-shoes-nik1zy7ok']
   @config = {
     user_agent: -> { USER_AGENTS.sample }
+    # retry_request_errors: [{ error: NoMethodError, skip_on_failure: true }]
   }
   def parse(response, url:, data: {})
     response = pagination(response)
@@ -45,7 +46,7 @@ class NikeSpider < Kimurai::Base
 
   def get_article_number(response)
     response.css('.description-preview__features')
-            .text.match(/Style:\s(.+)/)[1]
+            .text.match(/Style:\s(.+)/)[1] ||
   end
 
   def get_name(response)

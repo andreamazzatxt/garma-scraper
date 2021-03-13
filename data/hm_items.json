@@ -1,6 +1,52 @@
 [
   {
     "brand": "HM",
+    "name": "Biker jacket",
+    "depatment": "woman",
+    "article_type": "Jackets",
+    "article_number": "0944704001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9d%2F01%2F9d01ef7ed181c8e8b98acf2d34a4e35a71f61f3d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_biker%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LEATHER FIELD (PVT) LTD, UNIT # 1",
+        "country": "Pakistan",
+        "address": "12-KM WAZIRABAD ROAD, SAHOWALA, SIALKOT - PAKISTAN, 51310, SIALKOT"
+      }
+    ],
+    "position": 1
+  },
+  {
+    "brand": "HM",
+    "name": "Quilted jacket",
+    "depatment": "woman",
+    "article_type": "Jackets",
+    "article_number": "0955855004",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2F26%2Fc926b13fca389c3c2c8acc9a7d8aa0683c2fd179.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hubei Amay Apparel Co.,Ltd",
+        "country": "China",
+        "address": "No.2 Haokou Road, Haokou Town, 433100, Qianjiang"
+      }
+    ],
+    "position": 2
+  },
+  {
+    "brand": "HM",
     "name": "Oversized sweater vest",
     "depatment": "woman",
     "article_type": "Cardigans",
@@ -24,7 +70,288 @@
         "address": "Ducun Development Zone,, Wuzhong District, 215106, Suzhou"
       }
     ],
-    "position": 1
+    "position": 3
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Mom High Ankle Jeans",
+    "depatment": "woman",
+    "article_type": "Jeans",
+    "article_number": "0941666005",
+    "composition": [
+      {
+        "percentage": 96,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 3,
+        "fiber": "fibres"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0b%2Fbb%2F0bbb5771771a2d4eb9ab82ed4aa1f4ab317b3b30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_mom%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Roo Hsing Garment Co., Ltd. (Cambodia)",
+        "country": "Cambodia",
+        "address": "New Road, Sangkat Toul Sang Ke, Khan Russey Keo,, 999999, Phnom Oenh"
+      }
+    ],
+    "position": 4
+  },
+  {
+    "brand": "HM",
+    "name": "Mom High Ankle Jeans",
+    "depatment": "woman",
+    "article_type": "Jeans",
+    "article_number": "0714790020",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0d%2F66%2F0d66f74fb15dd308979243770b7e158541cdf941.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_mom%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Ananta Casual Wear Ltd.Union Sportswear Ltd.ARTISTIC MILLINERS (PVT) LTD. UNIT-4Artistic Milliners (Pvt) Ltd-unit15Denim Clothing Comapny - Unit 4",
+        "country": "Pakistan",
+        "address": "Kunia, KB Bazar, Joydebpur, 1704, Gazipur116, Pagar-Morkon Link Road, Pagar, Tongi, 1710, GazipurPlot No. 2, Sector 25,, Korangi Industrial Area, 74900, KarachiPlot no. 12 & 13,Korangi Industrial, Area, Sector-16, , 74900, KarachiPlot # H/2-A/1, Sector 5,, Korangi Industrial Area, 74900, Karachi"
+      }
+    ],
+    "position": 5
+  },
+  {
+    "brand": "HM",
+    "name": "Button-front dress",
+    "depatment": "woman",
+    "article_type": "Dresses",
+    "article_number": "0878013001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F46%2Ff6%2F46f6527014df90532b504b54ce3a39f21045fcd4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Zhejiang Tongli Clothing Co., Ltd",
+        "country": "China",
+        "address": "No. 90, Zengshan Road, Xicheng Industrial Zone, 322100, Dongyang"
+      }
+    ],
+    "position": 6
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned trousers",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0978605001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F43%2F0e%2F430e4304078968e18d535be798723cd9a6320358.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Zhejiang Tongli Clothing Co., Ltd",
+        "country": "China",
+        "address": "No. 90, Zengshan Road, Xicheng Industrial Zone, 322100, Dongyang"
+      }
+    ],
+    "position": 7
+  },
+  {
+    "brand": "HM",
+    "name": "Joggers High Waist",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0759814009",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2F0e%2F200efe9183769335eef7f7d8dc798e58462d6f10.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ASWAD COMPOSITE MILLS LTD. ( U-2)LIBAS TEXTILES LTD.LIBERTY KNITWEAR LTD.Shandong Wanli Fashion Co.,Ltd Jiu Nv Subsidiary",
+        "country": "China",
+        "address": "Kabirpur, Ashulia, Savar, 1340, DhakaMouchak, Nischintopur, Kaliakoir, 1740, GazipurRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJJiunv Town, Chengwu county, 274200, Heze"
+      }
+    ],
+    "position": 8
+  },
+  {
+    "brand": "HM",
+    "name": "Knot-detail sandals",
+    "depatment": "woman",
+    "article_type": "Shoes",
+    "article_number": "0950740001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4e%2F4a%2F4e4abb3acdce0a6cc02ca0bc00490bd0e039c9cb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "SHANGHAI CELEFIT LIMITED COMPANY",
+        "country": "China",
+        "address": "NO.1370 YU SHU RD, 201620, Shanghai"
+      }
+    ],
+    "position": 9
+  },
+  {
+    "brand": "HM",
+    "name": "Wide trousers",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0954586002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2Fe0%2F34e06f8e47c9bbd26c5c456fdf87274db21afea1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_highwaisted%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Zhejiang Tongli Clothing Co., Ltd",
+        "country": "China",
+        "address": "No. 90, Zengshan Road, Xicheng Industrial Zone, 322100, Dongyang"
+      }
+    ],
+    "position": 10
+  },
+  {
+    "brand": "HM",
+    "name": "Linen shirt",
+    "depatment": "woman",
+    "article_type": "Premium",
+    "article_number": "0902107002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "linen"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2Fb3%2F70b3f506ceee52ab6f6fc6327be88b2b1e2a73ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shirtsblouses_shirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LEGACY FASHION LTDSIAM'S SUPERIOR LTD.",
+        "country": "Bangladesh",
+        "address": "BSCIC, INDUSTRIAL ESTATE, KALURGHAT, 4212, ChittagongSECTOR-1, PLOT# 6,7 & 8, EXPORT PROCESSING ZONE, 4223, CHITTAGONG"
+      }
+    ],
+    "position": 11
+  },
+  {
+    "brand": "HM",
+    "name": "Cigarette trousers",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0751471001",
+    "composition": [
+      {
+        "percentage": 50,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 47,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 3,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2Fdc%2Fc9dc265555bc77bb9c23cdfad951a5562ad684fd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_chinosslacks%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Alliance Stitches Ltd.Sterling Denim Ltd.Shandong Richland Garment Co.,LtdDuishang (Shandong) Garments Co., LTDYork Fashion Manufacture Co.(Qingdao) Ltd.PT.Sai Apparel IndustriesPT. Sansan Saudaratex Jaya (unit 5)Keys Shine Co.,Ltd.Tianjin Golden Mountain Trade(Myanamr) Co.,LtdK-won & Micc Co., Ltd.Myanmar York Fashion Co.,LtdSaung Oo Shwe Nay(Golden Sunshine) Co.,LtdKingsrich (Myanmar) Fashion LimitedMyanmar Wedge Garment Co.,Ltd",
+        "country": "Myanmar",
+        "address": "SFB # 4 (1st & 2nd Floor), DEPZ, Ganakbari, Savar, 1349, DhakaDhania, Nayarhat, Savar, 1350, DhakaEast Region,, Pingyuan County, 253100, DezhouGuanxian Industrial Park, 252500, LiaochengNo.876 Shilin 3rd Road, JIMO, QINGDAO,SHANDONG, 266200, Ji MoJl Brigjend Sudiarto Km 11, 50194, SemarangJL.Industri II No.6, Leuwi Gajah, 40535, CimahiNo.4 Kyaukse Industrial Zone, Kyaukse Township,, 999999, MandalayHolding No(88),Block No(1185), Sar Thu Nge Kwin, TharYar Gone Village Tract, Bago Township, 8016, BagoINSEIN BLANKET FACTORY #20 (BRANCH), INSEIN-MINGALARDONE RD, AUNG SAN MYO, INSEIN T/S, 11011, YANGONPlot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, YangonNo.168 Kyan Sit Thar Rd, Hlaing Thar Yar Industrial Zone 4, 2964, YangonNo. 1, 2/3, Survey No.39,, Shwe Pyi Thar Industrial Zone,, Shwe Pyi Thar Township, 999999, YangonNo.(11) Insein Factory,, Lower Mingalardone Rd, Singu Wardi, Insein Township, 125556, Yangon"
+      }
+    ],
+    "position": 12
+  },
+  {
+    "brand": "HM",
+    "name": "Fine-knit cashmere cardigan",
+    "depatment": "woman",
+    "article_type": "Cardigans",
+    "article_number": "0892895004",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cashmere"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffc%2F32%2Ffc329441300569a3ddd54362c62c02bdc605bb59.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_cardigansjumpers_cardigans%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "WANHE GARMENT COMPANY LIMITED",
+        "country": "Myanmar",
+        "address": "PLOT NO.(56,57,58),BLOCK NO., (630/HLE NGOKE CHAUNG),HLE NGOKE, CHAUNG VILLAGE GROUP HMAWBI, TOWNSHIP YANGONG REGION , MYANMAR, 999999, Yangon"
+      }
+    ],
+    "position": 13
+  },
+  {
+    "brand": "HM",
+    "name": "Linen-blend dress",
+    "depatment": "woman",
+    "article_type": "Dresses",
+    "article_number": "0821336005",
+    "composition": [
+      {
+        "percentage": 55,
+        "fiber": "linen"
+      },
+      {
+        "percentage": 45,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7c%2F49%2F7c495e8916c7e90584d3da648c80b357d8baeee8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT. Doo San Dunia BusanaPT. Doo San Jaya Sukabumi",
+        "country": "Indonesia",
+        "address": "JL.Raya Parungkuda Km.21 DS, Jawa Barat, Java, 48857, SukabumiDesa Kompa, KP.Bojong JL.Raya, Sukabumi Kec.Parung Kuda, 43357, Sukabumi"
+      }
+    ],
+    "position": 14
   },
   {
     "brand": "HM",
@@ -51,14 +378,280 @@
         "address": "South Panishail, B.K.S.P, Kashimpur, JOYDEVPUR, 1349, Gazipur"
       }
     ],
-    "position": 2
+    "position": 15
   },
   {
     "brand": "HM",
-    "name": "Relaxed Fit Sweatshirt",
+    "name": "Sweatshirt",
     "depatment": "woman",
     "article_type": "Sweatshirts",
-    "article_number": "0968894001",
+    "article_number": "0786304013",
+    "composition": [
+      {
+        "percentage": 69,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 31,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2F61%2Feb61ba7a1c1256632ce17a4bac4e503baaaddefc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_hoodiesswetshirts_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Akar Tekstil Gida ve Turz. San. Tic. A.S. Mardin Branch",
+        "country": "Turkey",
+        "address": "Kayatepe Koyu Mevkii, Savur, 47860, Mardin"
+      }
+    ],
+    "position": 16
+  },
+  {
+    "brand": "HM",
+    "name": "Jersey pyjamas",
+    "depatment": "woman",
+    "article_type": "Nightwear",
+    "article_number": "0970593004",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdd%2F39%2Fdd39cc9530cb4e93c0a6b48a64a8b654984045c7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "METRO KNITTING & DYEING MILLS",
+        "country": "Bangladesh",
+        "address": "RAMARBAG, KUTUBPUR, FATULLAH, 1400, NARAYANGONJ"
+      }
+    ],
+    "position": 17
+  },
+  {
+    "brand": "HM",
+    "name": "Wide trousers",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0816563001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2F60%2Fec6015a24a8548bddd1c895e714251a061216a20.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT.Sai Apparel IndustriesPT. Sansan Saudaratex Jaya (unit 5)",
+        "country": "Indonesia",
+        "address": "Jl Brigjend Sudiarto Km 11, 50194, SemarangJL.Industri II No.6, Leuwi Gajah, 40535, Cimahi"
+      }
+    ],
+    "position": 18
+  },
+  {
+    "brand": "HM",
+    "name": "Super Skinny High Jeans",
+    "depatment": "woman",
+    "article_type": "Skinny",
+    "article_number": "0706016001",
+    "composition": [
+      {
+        "percentage": 61,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 34,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 3,
+        "fiber": "fibres"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F36%2F1c%2F361c32b4babe40defb697b9f8b7d113024748434.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_skinny_skinnyhigh%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Myanmar York Fashion Co.,LtdZhejiang Tongli Clothing (Myanmar) Co.,LtdMyanmar York Fashion Co.,Ltd",
+        "country": "Myanmar",
+        "address": "Plot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, YangonNo.25 Na Wa Day Mingyi Street,, Shwa Lin Pan Industrial Zone, Hlaing Thar Yar Township, 95478, YangonPlot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, Yangon"
+      }
+    ],
+    "position": 19
+  },
+  {
+    "brand": "HM",
+    "name": "Wide blouse",
+    "depatment": "woman",
+    "article_type": "Shirts",
+    "article_number": "0884319019",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2Fd9%2F44d9d48ef43e449adfc36ba68ce8f6546bdb91c4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shirtsblouses_blouses%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT. Doo San Jaya Sukabumi",
+        "country": "Indonesia",
+        "address": "Desa Kompa, KP.Bojong JL.Raya, Sukabumi Kec.Parung Kuda, 43357, Sukabumi"
+      }
+    ],
+    "position": 20
+  },
+  {
+    "brand": "HM",
+    "name": "2-pack jersey leggings",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0824997001",
+    "composition": [
+      {
+        "percentage": 50,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 46,
+        "fiber": "viscose"
+      },
+      {
+        "percentage": 4,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F9d%2F7a%2F9d7ac72bdda6a6d9cc2c1cb74785f8fe9cedba03.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Comptex Bangladesh LtdFAKIR APPARELS LTD.FAKIR APPARELS LTD.FAKIR KNITWEARS LTD.FARIHA KNIT TEX LTD.DBL Industries PLC",
+        "country": "Ethiopia",
+        "address": "Vulta, Rupgonj, 1460, Narayangonj16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJ16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJKAYEMPUR, FATULLAH, 1400, NARAYANGANJWestmasdair Road, Enayetnagar, Fatullah, 1400, NarayangongBelt, Quiha Sub City, Mekelle City, Tigray, Ethiopia, 1900, Mekelle"
+      }
+    ],
+    "position": 21
+  },
+  {
+    "brand": "HM",
+    "name": "Biker jacket",
+    "depatment": "woman",
+    "article_type": "Jackets",
+    "article_number": "0944704002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "suede"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F21%2F53%2F2153a90c509863df6754ed8fefa9757895b0aa17.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_biker%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LEATHER FIELD (PVT) LTD, UNIT # 1",
+        "country": "Pakistan",
+        "address": "12-KM WAZIRABAD ROAD, SAHOWALA, SIALKOT - PAKISTAN, 51310, SIALKOT"
+      }
+    ],
+    "position": 22
+  },
+  {
+    "brand": "HM",
+    "name": "Puff-sleeved dress",
+    "depatment": "woman",
+    "article_type": "Dresses",
+    "article_number": "0953416002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb8%2Fb2%2Fb8b269f5543619c59d0e1dbc94170467d1e10004.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_dresses_mididresses%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT. Sari Warna Asli Textile Industry",
+        "country": "Indonesia",
+        "address": "Jl. HOS Cokroaminoto No.28,, RT 02 RW 03 Kel. Pucangsawit, Kec., Jebres, Surakarta Jawa Tengah ,  In, 57125, Surakarta"
+      }
+    ],
+    "position": 23
+  },
+  {
+    "brand": "HM",
+    "name": "Wide trousers",
+    "depatment": "woman",
+    "article_type": "Trousers",
+    "article_number": "0946640002",
+    "composition": [
+      {
+        "percentage": 80,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 18,
+        "fiber": "viscose"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2Fcc%2F20cc5c4945bc3a788b0ce34044b9f3728b104f17.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hubei Amay Apparel Co.,LtdViewking (Suizhou) Garments",
+        "country": "China",
+        "address": "No.2 Haokou Road, Haokou Town, 433100, QianjiangNo.23 old street,, Xihe town, SUIZHOU, HUBEI, 441000, Sui Zhou"
+      }
+    ],
+    "position": 24
+  },
+  {
+    "brand": "HM",
+    "name": "Zip-through sports hoodie",
+    "depatment": "woman",
+    "article_type": "Sportswear",
+    "article_number": "0805000010",
+    "composition": [
+      {
+        "percentage": 97,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 3,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd3%2Fa7%2Fd3a7bd947b8b52556405eea4c898357d622c91bf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_sport_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "SEDUNO CAMBO KNITTING CO.,LTDWuhu Seduno Fashion Co., Ltd.",
+        "country": "China",
+        "address": "PHUM KANDOEUNG TOUCH, KHUM KANDOEUNG, SROK BATI, KET TA KEO, 21463Jishan West Road, Economic Development Zone, Nanling, 241000, Wuhu"
+      }
+    ],
+    "position": 25
+  },
+  {
+    "brand": "HM",
+    "name": "Zip-through hoodie",
+    "depatment": "woman",
+    "article_type": "Basics",
+    "article_number": "0920064001",
     "composition": [
       {
         "percentage": 60,
@@ -69,16 +662,331 @@
         "fiber": "polyester"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F63%2Fc8%2F63c8733da2950bacf2f72ae0a3182b244578d578.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_hoodiesswetshirts_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdb%2F3a%2Fdb3ab23aced0a6f506f260b9993d9ac20b322370.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_longsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "HAMS GARMENTS LTD.",
-        "country": "Bangladesh",
-        "address": "Sreepur Road, Dakkhin Vangnahati,Sreepur, 1740, Gazipur"
+        "name": "PT MULIA CEMERLANG ABADI MULTI IND SUKABUMIPT. Busana Indah Global",
+        "country": "Indonesia",
+        "address": "Jl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiJl Cireundeu No 10 Kp Pabuaran RT, 01/01 Kec Cibadak Kab Sukabumi, Jawa Barat Indonesia, 43155, Sukabumi"
       }
     ],
-    "position": 3
+    "position": 26
+  },
+  {
+    "brand": "HM",
+    "name": "Mom High Ankle Jeans",
+    "depatment": "woman",
+    "article_type": "Jeans",
+    "article_number": "0572998001",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcc%2F6a%2Fcc6aa9d3dd2b64b99abab7695237f4a5cd897449.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_loose%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Aba Fashions Ltd.PIMKIE APPARELS LTD.Qingdao HYC Apparel Co., LtdARTISTIC APPARELS (PVT) LTD.US Apparel Private Limited (US-3)",
+        "country": "Pakistan",
+        "address": "521/1 Gacha, Gazipur City Corporation, 1704, GazipurPlot # 328, Block# F, Tongi, Industral Area, 1710, GazipurTaiwan Agricultural Economy, Development Area, Pingdu, 266736, QingdaoPLOT # 4, SECTOR 25, KORANGI, INDUSTRIAL AREA, 74900, Karachi20 KM, Ferozpur Road,, Galaxo Town, 54600, Lahore"
+      }
+    ],
+    "position": 27
+  },
+  {
+    "brand": "HM",
+    "name": "Long wrap dress",
+    "depatment": "woman",
+    "article_type": "Dresses",
+    "article_number": "0944619002",
+    "composition": [
+      {
+        "percentage": 70,
+        "fiber": "viscose"
+      },
+      {
+        "percentage": 30,
+        "fiber": "polyamide"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4d%2F42%2F4d4267f4ab21f7c5784d535aa94446a265b777c6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5BLadies_dresses_wrap%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT. Muara Krakatau",
+        "country": "Indonesia",
+        "address": "Dsn Rejosari RT 26 RW 09 Desa Cukil, Kec Tengaran , Kab Semarang, 50775, Kabupaten Semarang"
+      }
+    ],
+    "position": 28
+  },
+  {
+    "brand": "HM",
+    "name": "Fully-fashioned trainers",
+    "depatment": "woman",
+    "article_type": "Shoes",
+    "article_number": "0968657001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "rubber"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F11%2Fc0%2F11c0ca47e119bd6f83c101dedb20b9a17440eb21.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Putian Sunway Footwear Co., Ltd.",
+        "country": "China",
+        "address": "Zhulin Road, Hualin Industrial, District, 351100, Putian"
+      }
+    ],
+    "position": 29
+  },
+  {
+    "brand": "HM",
+    "name": "Zip-through sports hoodie",
+    "depatment": "woman",
+    "article_type": "Sportswear",
+    "article_number": "0805000014",
+    "composition": [
+      {
+        "percentage": 88,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 12,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F9c%2Fa19c7efef975a1832aee6db135583639e6359d62.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_sport_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Wuhu Seduno Fashion Co., Ltd.",
+        "country": "China",
+        "address": "Jishan West Road, Economic Development Zone, Nanling, 241000, Wuhu"
+      }
+    ],
+    "position": 30
+  },
+  {
+    "brand": "HM",
+    "name": "Long-sleeved dress",
+    "depatment": "woman",
+    "article_type": "Dresses",
+    "article_number": "0962641001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2F3f%2Fd73f6ad2a57eff9a01cab23c09d1f48a92c8fc2b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "QuanJiao  SiDa Silk Garments Co Ltd",
+        "country": "China",
+        "address": "North Gate,XiYuan,, 239500, Quanjiao"
+      }
+    ],
+    "position": 31
+  },
+  {
+    "brand": "HM",
+    "name": "Printed cotton shirt",
+    "depatment": "man",
+    "article_type": "cotton",
+    "article_number": "0902742001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F21%2F0c%2F210c765becf786b27b25e019da2ba5d3035b266d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 32
+  },
+  {
+    "brand": "HM",
+    "name": "Leather Derby shoes",
+    "depatment": "man",
+    "article_type": "Shoes",
+    "article_number": "0917196001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "leather"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2F92%2F1392c1ae1cf6313a4d3abc7d3b55c1b04a945a83.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 33
+  },
+  {
+    "brand": "HM",
+    "name": "Short-sleeved tulle shirt",
+    "depatment": "man",
+    "article_type": "Shirts",
+    "article_number": "0902735001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1e%2F0b%2F1e0b0388d7a7de5ffb2be1240dd45365499929e3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 34
+  },
+  {
+    "brand": "HM",
+    "name": "Oversized printed top",
+    "depatment": "man",
+    "article_type": "T-shirts",
+    "article_number": "0944863001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2b%2Fc5%2F2bc59d6cf5dba25bf271f80198b6e8d7022d6acd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 35
+  },
+  {
+    "brand": "HM",
+    "name": "Photo-print T-shirt",
+    "depatment": "man",
+    "article_type": "T-shirts",
+    "article_number": "0902745002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F98%2F0f%2F980f05ed982b451ec85bd85a7f9e02bb251c6305.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 36
+  },
+  {
+    "brand": "HM",
+    "name": "Regular Fit Wool jacket",
+    "depatment": "man",
+    "article_type": "Suits",
+    "article_number": "0902755001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5c%2F96%2F5c961623a6937891f5d214aa48e31f0ce4974aa5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 37
+  },
+  {
+    "brand": "HM",
+    "name": "Loose Fit Cotton trousers",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0961633002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F91%2F2a%2F912a1a9b26a6302dbba75a5a31e1c87f0f4e9c39.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 38
+  },
+  {
+    "brand": "HM",
+    "name": "Relaxed Fit Hoodie",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0685814001",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F01%2F6e%2F016ef271830ee397dc47a79a5feb31fbd7da1c40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KDS Apparels Ltd.KDS Fashion LtdLIBERTY KNITWEAR LTD.SAIHAM KNIT COMPOSITE LTD.SEDUNO CAMBO KNITTING CO.,LTDSeduno Investment Cambo Fashion Co.,Ltd.Ningbo Orient Hongye Knit Co.,LtdNingbo Yukang Knitting Manufacturing Co.,LtdPT Kreasi Garment CirebonPT. Doo San Dunia BusanaPT. Doo San Jaya SukabumiPT MULIA CEMERLANG ABADI MULTI IND SUKABUMIHongKong Rise Sun(Vietnam)Textile Co. Ltd Garment Branch",
+        "country": "Viet Nam",
+        "address": "251 / 252 Nasirabad Industrial, Area, 4211, Chittagong253-254,nasirabad I/A,, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJSaiham Nagor Road, Noyapara, 3333, HobiganjPHUM KANDOEUNG TOUCH, KHUM KANDOEUNG, SROK BATI, KET TA KEO, 21463Street 217, Sangkat Dangkor, Khan Dangkor, 999094, Phnom PenhNo.281 QiYun Road, DuanTang, 315012, NingboFengshuigang, Gulin, Haishu District, 315177, NingboDI Panjaitan Blok Ujungberu , Desa/, Kelurahan Bojongnegara, Kecamatan, Ciledug , Kab. Cirebon, 45188, Kab. CirebonJL.Raya Parungkuda Km.21 DS, Jawa Barat, Java, 48857, SukabumiDesa Kompa, KP.Bojong JL.Raya, Sukabumi Kec.Parung Kuda, 43357, SukabumiJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiLot A12 Street D3,, Thanh Thanh Cong Industrial Zone, , Trang Bang District, 843300, Tay Ninh"
+      }
+    ],
+    "position": 39
   },
   {
     "brand": "HM",
@@ -105,34 +1013,107 @@
         "address": "14th, Genda Cornopara, Ulail, Savar, 1340, DhakaNischintapur, Ashulia, DEPZ Road, Savar, 1341, DhakaHuancheng Science and Technology, Industrial Park, Ningyang, 271400, Tan anSy No. 45/4, 45/5, 46/1,2 & 58/2,, Chouhalli Village, Muguru Hobli,, T. Narasipura Taluk,, 571124, Mysore"
       }
     ],
-    "position": 4
+    "position": 40
   },
   {
     "brand": "HM",
-    "name": "Relaxed Fit Hoodie",
+    "name": "Sweatshirt Relaxed Fit",
     "depatment": "man",
     "article_type": "Hoodies",
-    "article_number": "0685814062",
+    "article_number": "0685813042",
     "composition": [
       {
         "percentage": 60,
-        "fiber": "polyester"
+        "fiber": "cotton"
       },
       {
         "percentage": 40,
-        "fiber": "cotton"
+        "fiber": "polyester"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2Fcc%2F5dcc26217a4caa3b39117b95c984a7543763957b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fcd%2F5ecdc9f07b5c924d2013df61bd595980969a59fb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "FAKIR APPARELS LTD.KDS Apparels Ltd.LIBERTY KNITWEAR LTD.NEW MINGDA(CAMBODIA)CO.,LTDHongKong Rise Sun(Vietnam)Textile Co. Ltd Garment Branch",
-        "country": "Viet Nam",
-        "address": "16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJ251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJphum tuol pongra, sangkat chomchao,khan dangkor, phnom penh, 999999, phnom penhLot A12 Street D3,, Thanh Thanh Cong Industrial Zone, , Trang Bang District, 843300, Tay Ninh"
+        "name": "KDS Apparels Ltd.METRO KNITTING & DYEING MILLSPT. Muara KrakatauPT LEE YIN GAPURA GARMENT INDONESIAPT MULIA CEMERLANG ABADI MULTI IND SUKABUMIPT. Mulia Cemerlang Abadi",
+        "country": "Indonesia",
+        "address": "251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAG, KUTUBPUR, FATULLAH, 1400, NARAYANGONJDsn Rejosari RT 26 RW 09 Desa Cukil, Kec Tengaran , Kab Semarang, 50775, Kabupaten SemarangJl. Raya Kadipaten, Blok Sawah Cabe, Kel. Gunungsari, Kec. Kasokandel, Kab. Majalengka, 45453, MajalengkaJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiJl. Industri Km 12 Kp Cirewet Ds., Sukadamai, Kec Cikupa, 15710, Tangerang"
       }
     ],
-    "position": 5
+    "position": 41
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatpants Regular Fit",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0763988001",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2e%2F75%2F2e7574b6b1d5e1939737fcafed723dab3d9f5388.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "FAKIR APPARELS LTD.KDS Apparels Ltd.LIBERTY KNITWEAR LTD.SAIHAM KNIT COMPOSITE LTD.PT MULIA CEMERLANG ABADI MULTI IND SUKABUMIHUNG KIU (MYANMAR) GARMENT MANUFACTURING LIMITED.",
+        "country": "Myanmar",
+        "address": "16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJ251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJSaiham Nagor Road, Noyapara, 3333, HobiganjJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiNo.35/9, Yangon-Mandalay Road,, Inndakaw Village, Bago, Township, Bago Region, 11181, Yangon"
+      }
+    ],
+    "position": 42
+  },
+  {
+    "brand": "HM",
+    "name": "Round-neck T-shirt Regular Fit",
+    "depatment": "man",
+    "article_type": "T-shirts",
+    "article_number": "0685816002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd8%2F12%2Fd812412329a628300624e1661969be84286fe637.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ABONI KNITWEAR LTDAman Tex LimitedComfit Composite Knit LtdIMPRESS-NEWTEX COMPOSITE TEXTILES LTDSAIHAM KNIT COMPOSITE LTD.FUSHUN CAMBO FASHION CO., LTD.DBL Industries PLCIndochine Apparel PLCARVIND LIMITEDPAPCON (INDORE) PVT  LTDQUANTUM KNITS 3",
+        "country": "India",
+        "address": "TETULZHORA, PLOT#169-171, HEMAYETPUR, SAVAR, 1347, DHAKASREEPUR ROAD,, Boiragirchala, 1740, GazipurGorai, Mirzapur, 1941, TangailGorai, Industrial Area,, Mirzapur, 1942, TangailSaiham Nagor Road, Noyapara, 3333, HobiganjKanthong Village, Kolong Commune, , Bati District, Takeo Province, 99999, Phnom PenhBelt, Quiha Sub City, Mekelle City, Tigray, Ethiopia, 1900, Mekelleshed no 37, 39 and 9 ,Hawassa, 263281, Hawassa26/2 & 27/2, Kenchanahalli, Mysore Road,, 560059, BangalorePlot No.-103, Industrial Area,  Mhow-Neemuch Road, Sector-1, 454775, PithampurNO. 460, AVINASHI MAIN ROAD, THEKKALUR, 641654, TIRUPUR"
+      }
+    ],
+    "position": 43
+  },
+  {
+    "brand": "HM",
+    "name": "Round-neck T-shirt Regular Fit",
+    "depatment": "man",
+    "article_type": "T-shirts",
+    "article_number": "0685816001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2d%2Fef%2F2deff3457f9fe4ae80d4067a911589de047fa042.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ABONI KNITWEAR LTDAman Tex LimitedComfit Composite Knit LtdComptex Bangladesh LtdKARIM TEXTILES LIMITEDMEGHNA KNIT COMPOSITE LIMITEDSAIHAM KNIT COMPOSITE LTD.DBL Industries PLCIndochine Apparel PLCARVIND LIMITEDPAPCON (INDORE) PVT  LTDQUANTUM KNITS 3",
+        "country": "India",
+        "address": "TETULZHORA, PLOT#169-171, HEMAYETPUR, SAVAR, 1347, DHAKASREEPUR ROAD,, Boiragirchala, 1740, GazipurGorai, Mirzapur, 1941, TangailVulta, Rupgonj, 1460, NarayangonjNOORBAGH,, KALIAKOIR, 1751, GAZIPURGILARCHALA, SREEPUR, 1740, GAZIPURSaiham Nagor Road, Noyapara, 3333, HobiganjBelt, Quiha Sub City, Mekelle City, Tigray, Ethiopia, 1900, Mekelleshed no 37, 39 and 9 ,Hawassa, 263281, Hawassa26/2 & 27/2, Kenchanahalli, Mysore Road,, 560059, BangalorePlot No.-103, Industrial Area,  Mhow-Neemuch Road, Sector-1, 454775, PithampurNO. 460, AVINASHI MAIN ROAD, THEKKALUR, 641654, TIRUPUR"
+      }
+    ],
+    "position": 44
   },
   {
     "brand": "HM",
@@ -159,7 +1140,473 @@
         "address": "Plot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, Yangon"
       }
     ],
-    "position": 6
+    "position": 45
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatpants Regular Fit",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0763988004",
+    "composition": [
+      {
+        "percentage": 73,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 23,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Faf%2Ff2%2Faff2c788d80bdd2592dd3f57c0e2aa43ac7b2fa5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ASWAD COMPOSITE MILLS LTD. ( U-2)FAKIR APPARELS LTD.KDS Apparels Ltd.LIBERTY KNITWEAR LTD.HUNG KIU (MYANMAR) GARMENT MANUFACTURING LIMITED.Hungkiu (Myanmar) Garment Manufacturing Ltd. bago branch",
+        "country": "Myanmar",
+        "address": "Kabirpur, Ashulia, Savar, 1340, Dhaka16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJ251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJNo.35/9, Yangon-Mandalay Road,, Inndakaw Village, Bago, Township, Bago Region, 11181, YangonNo. 639, Mya Khaung Kwin,,  Kamarnut Village Tract,,  bago T/S, Bago Region, 70101, bago"
+      }
+    ],
+    "position": 46
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Fit Cargo joggers",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0960589001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Faa%2Fde%2Faade1ef630e6822fee20fb80088320710b2ec215.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_trousers_slim_all%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Dongyang Tongli  Dalian Branch own Fty ( No.2 )Dongyang Tongli Garment Co, Ltd",
+        "country": "China",
+        "address": "No.90,zengshan Road,Dongyang, 322100, Dong YangNo.42, Huashan Road, DONGYANG, ZHEJIANG, 321000, Dong Yang"
+      }
+    ],
+    "position": 47
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Fit Chinos",
+    "depatment": "man",
+    "article_type": "Fit",
+    "article_number": "0815456001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2F2d%2Fea2dab595c81137cfe2037405c5e5f9be47ce5e2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_chinos_slim_all%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ARTISTIC DESIGN  LTDNext Collection LtdZaber & Zubair Fabrics Limited.Sterling Denim Ltd.Zaber & Zubair Fabrics Limited.Zhejiang Tongli Clothing (Myanmar) Co.,Ltd",
+        "country": "Myanmar",
+        "address": "232-233,Narashinghpur, Ashulia, Savar, 1341, Dhaka1323-1325, Baron, Ashulia, Savar, 1341, DhakaPagar, Tongi, 1710, GazipurDhania, Nayarhat, Savar, 1350, DhakaPagar, Tongi, 1710, GazipurNo.25 Na Wa Day Mingyi Street,, Shwa Lin Pan Industrial Zone, Hlaing Thar Yar Township, 95478, Yangon"
+      }
+    ],
+    "position": 48
+  },
+  {
+    "brand": "HM",
+    "name": "Relaxed Fit Hoodie",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0685814062",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 40,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5d%2Fcc%2F5dcc26217a4caa3b39117b95c984a7543763957b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "FAKIR APPARELS LTD.KDS Apparels Ltd.LIBERTY KNITWEAR LTD.NEW MINGDA(CAMBODIA)CO.,LTDHongKong Rise Sun(Vietnam)Textile Co. Ltd Garment Branch",
+        "country": "Viet Nam",
+        "address": "16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJ251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJphum tuol pongra, sangkat chomchao,khan dangkor, phnom penh, 999999, phnom penhLot A12 Street D3,, Thanh Thanh Cong Industrial Zone, , Trang Bang District, 843300, Tay Ninh"
+      }
+    ],
+    "position": 49
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatshirt Relaxed Fit",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0685813001",
+    "composition": [
+      {
+        "percentage": 64,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 36,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2Fb0%2Feab0027c60c8cc27f7232f1798376a4a585891cb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Aman Tex LimitedLIBERTY KNITWEAR LTD.METRO KNITTING & DYEING MILLSSAIHAM KNIT COMPOSITE LTD.NEW MINGDA(CAMBODIA)CO.,LTDPT. Muara KrakatauPT.ING INTERNATIONALPT LEE YIN GAPURA GARMENT INDONESIAPT MULIA CEMERLANG ABADI MULTI IND SUKABUMIPT. Kahatex (Garment Div)",
+        "country": "Indonesia",
+        "address": "SREEPUR ROAD,, Boiragirchala, 1740, GazipurRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJRAMARBAG, KUTUBPUR, FATULLAH, 1400, NARAYANGONJSaiham Nagor Road, Noyapara, 3333, Hobiganjphum tuol pongra, sangkat chomchao,khan dangkor, phnom penh, 999999, phnom penhDsn Rejosari RT 26 RW 09 Desa Cukil, Kec Tengaran , Kab Semarang, 50775, Kabupaten SemarangKAHA GROUP. Jl. Raya Rancaekek -, Majalaya No. 389 Solokan Jeruk ., Bandung Indonesia, 40382, BandungJl. Raya Kadipaten, Blok Sawah Cabe, Kel. Gunungsari, Kec. Kasokandel, Kab. Majalengka, 45453, MajalengkaJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiJl. Cijerah, Cigondewah Girang No., 16, RT.001/RW032 - Melong Cimahi, Selatan, Cimahi, 40534, Bandung"
+      }
+    ],
+    "position": 50
+  },
+  {
+    "brand": "HM",
+    "name": "Joggers",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0441386001",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff1%2F2c%2Ff12cc235d5637c24bebf5be324de71676312ce42.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LIBERTY KNITWEAR LTD.PT. KAHATEX - MAJALAYA (jersey)PT. Kahatex (Garment Div)PT. Kahatex (Majalaya, Socks div)",
+        "country": "Indonesia",
+        "address": "RAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJJl. Rancaekek Majalaya no. 389, Desa Solokan Jeruk, Kab. Bandung - Jawa Barat, 40382, BandungJl. Cijerah, Cigondewah Girang No., 16, RT.001/RW032 - Melong Cimahi, Selatan, Cimahi, 40534, BandungJawa Barat, Indonesia, Jl. Raya Rancaekek Majalaya No. 389, Desa Solokan Jeruk,, Kec. Solokan Jeruk - Kab Bandung, 40382, Bandung"
+      }
+    ],
+    "position": 51
+  },
+  {
+    "brand": "HM",
+    "name": "Cargo joggers",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0606395006",
+    "composition": [
+      {
+        "percentage": 98,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa6%2Fb3%2Fa6b3d5119be1d0ca87246061a588f56d90b767bc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "A.K.M. Knit Wear Ltd.ANANTA GARMENTS LTDSharmin Apparels LtdViewking (Suizhou) GarmentsWuhan Kingsrich Garments Co.,Ltd E'zhou BranchWuhan Kingsrich Gmts Co., LtdMyanmar York Fashion Co.,LtdSaung Oo Shwe Nay(Golden Sunshine) Co.,LtdMyanmar Jiale Fashion LtdKingsrich (Myanmar) Fashion LimitedMyanmar Wedge Garment Co.,Ltd",
+        "country": "Myanmar",
+        "address": "14th, Genda Cornopara, Ulail, Savar, 1340, DhakaNischintapur, Ashulia, DEPZ Road, Savar, 1341, DhakaEast Narashinghapur, Zirabo, Ashulia, Savar, 1341, DhakaNo.23 old street,, Xihe town, SUIZHOU, HUBEI, 441000, Sui ZhouMeiyang Garment Industrial Park, Phoenix Road No.23, 436000, E'zhou98# Lianhu Rd, Wuhan E&T Developement Zone, WUHAN, HUBEI, 430000, Wu HanPlot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, YangonNo.168 Kyan Sit Thar Rd, Hlaing Thar Yar Industrial Zone 4, 2964, YangonNo.13, Min Aye Yar Road,, Shwe Than Lwin Industrial Zone,, Hlaing Tharyar Township,, 99999, YangonNo. 1, 2/3, Survey No.39,, Shwe Pyi Thar Industrial Zone,, Shwe Pyi Thar Township, 999999, YangonNo.(11) Insein Factory,, Lower Mingalardone Rd, Singu Wardi, Insein Township, 125556, Yangon"
+      }
+    ],
+    "position": 52
+  },
+  {
+    "brand": "HM",
+    "name": "Cotton joggers",
+    "depatment": "man",
+    "article_type": "joggers",
+    "article_number": "0967542002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5f%2F3d%2F5f3d15c2e9a5c42e5970eda5078e6371090bb951.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LIBERTY KNITWEAR LTD.",
+        "country": "Bangladesh",
+        "address": "RAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 53
+  },
+  {
+    "brand": "HM",
+    "name": "Sports joggers",
+    "depatment": "man",
+    "article_type": "Sportswear",
+    "article_number": "0862106001",
+    "composition": [
+      {
+        "percentage": 58,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 42,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F28%2Fb7%2F28b72747afd35a23e1f0d2531170ceac4916ae33.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_sport_bottoms%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Wuhan Winsome Knitting Industrial CO., Ltd.",
+        "country": "China",
+        "address": "No.8 Jiangwang Road, Jianghan Econo, 430023, Wuhan"
+      }
+    ],
+    "position": 54
+  },
+  {
+    "brand": "HM",
+    "name": "Cotton cargo joggers",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0769007012",
+    "composition": [
+      {
+        "percentage": 98,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2F63%2F7063a69eea8e588d06c8b9f2b6fdd523a7ae7318.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_cargo%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ANANTA GARMENTS LTDAnanta Jeans wear Ltd.Shandong TianYuan Garment Co.LtdSHAHI EXPORTS PVT LTD UNIT 43",
+        "country": "India",
+        "address": "Nischintapur, Ashulia, DEPZ Road, Savar, 1341, Dhaka134/123 Kabi Jashim Uddin Road, Pagar, Tongi, 1710, GazipurHuancheng Science and Technology, Industrial Park, Ningyang, 271400, Tan anSy No. 45/4, 45/5, 46/1,2 & 58/2,, Chouhalli Village, Muguru Hobli,, T. Narasipura Taluk,, 571124, Mysore"
+      }
+    ],
+    "position": 55
+  },
+  {
+    "brand": "HM",
+    "name": "Reflective hoodie",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0925656002",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F19%2F9f%2F199fdc92e45eaccf8536092a25b4d0e65938c0d9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hung Wah (Cambodia) Gmt. Manufac Ltd.",
+        "country": "Cambodia",
+        "address": "Trapeang Kleong Village, Sangkat Chom Chao, Khan Porsenchey, 12405, Phnom Penh"
+      }
+    ],
+    "position": 56
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatpants Regular Fit",
+    "depatment": "man",
+    "article_type": "Trousers",
+    "article_number": "0763988003",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb6%2F4c%2Fb64cdded42acc588340d84b3c1cf8778b7e3b585.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ASWAD COMPOSITE MILLS LTD. ( U-2)FAKIR APPARELS LTD.IMPRESS-NEWTEX COMPOSITE TEXTILES LTDKDS Apparels Ltd.LIBERTY KNITWEAR LTD.PT MULIA CEMERLANG ABADI MULTI IND SUKABUMI",
+        "country": "Indonesia",
+        "address": "Kabirpur, Ashulia, Savar, 1340, Dhaka16/17A BSCIC INDUSTRIAL AREA, ENAYETNAGAR, FATULLAH, 1400, NARAYANGANJGorai, Industrial Area,, Mirzapur, 1942, Tangail251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, Sukabumi"
+      }
+    ],
+    "position": 57
+  },
+  {
+    "brand": "HM",
+    "name": "Relaxed Jeans",
+    "depatment": "man",
+    "article_type": "Jeans",
+    "article_number": "0959938001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F10%2F2d%2F102def83bf00f722c6519bdedb060795d0796ddb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_relaxed%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 58
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Fit Chinos",
+    "depatment": "man",
+    "article_type": "Fit",
+    "article_number": "0815456039",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb8%2F3b%2Fb83b545a25c40ca6b4b78447377a4606bf18f25c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_chinos_slim_all%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Sterling Denim Ltd.Zaber & Zubair Fabrics Limited.",
+        "country": "Bangladesh",
+        "address": "Dhania, Nayarhat, Savar, 1350, DhakaPagar, Tongi, 1710, Gazipur"
+      }
+    ],
+    "position": 59
+  },
+  {
+    "brand": "HM",
+    "name": "Sweatshirt Relaxed Fit",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0685813023",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffe%2Fe3%2Ffee37b4e992d759b5df1c2e43147d10c32ee955d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KDS Apparels Ltd.LIBERTY KNITWEAR LTD.SAIHAM KNIT COMPOSITE LTD.PT LEE YIN GAPURA GARMENT INDONESIAPT MULIA CEMERLANG ABADI MULTI IND SUKABUMI",
+        "country": "Indonesia",
+        "address": "251 / 252 Nasirabad Industrial, Area, 4211, ChittagongRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJSaiham Nagor Road, Noyapara, 3333, HobiganjJl. Raya Kadipaten, Blok Sawah Cabe, Kel. Gunungsari, Kec. Kasokandel, Kab. Majalengka, 45453, MajalengkaJl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, Sukabumi"
+      }
+    ],
+    "position": 60
+  },
+  {
+    "brand": "HM",
+    "name": "Relaxed Fit Hoodie",
+    "depatment": "man",
+    "article_type": "Hoodies",
+    "article_number": "0685814080",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 40,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdf%2F5e%2Fdf5e5c5427c3d916c541a114c39ed39d8e83c17e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Seduno Investment Cambo Fashion Co.,Ltd.HongKong Rise Sun(Vietnam)Textile Co. Ltd Garment Branch",
+        "country": "Viet Nam",
+        "address": "Street 217, Sangkat Dangkor, Khan Dangkor, 999094, Phnom PenhLot A12 Street D3,, Thanh Thanh Cong Industrial Zone, , Trang Bang District, 843300, Tay Ninh"
+      }
+    ],
+    "position": 61
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Fit Chinos",
+    "depatment": "man",
+    "article_type": "Fit",
+    "article_number": "0815456010",
+    "composition": [
+      {
+        "percentage": 98,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F44%2Fa9%2F44a9415c7089c3dacf9034d8da50776a2553bdb1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_trousers_chinos_slim_all%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ARTISTIC DESIGN  LTDSterling Denim Ltd.Saung Oo Shwe Nay(Golden Sunshine) Co.,LtdZhejiang Tongli Clothing (Myanmar) Co.,Ltd",
+        "country": "Myanmar",
+        "address": "232-233,Narashinghpur, Ashulia, Savar, 1341, DhakaDhania, Nayarhat, Savar, 1350, DhakaNo.168 Kyan Sit Thar Rd, Hlaing Thar Yar Industrial Zone 4, 2964, YangonNo.25 Na Wa Day Mingyi Street,, Shwa Lin Pan Industrial Zone, Hlaing Thar Yar Township, 95478, Yangon"
+      }
+    ],
+    "position": 62
+  },
+  {
+    "brand": "HM",
+    "name": "A-line skirt",
+    "depatment": "young",
+    "article_type": "Skirts",
+    "article_number": "0959800001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F03%2Fbb%2F03bb577e40974900e19a96b60baa756ac0096e40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "B.L. INTERNATIONAL (P) LTD.",
+        "country": "India",
+        "address": "NO. 38G,, UDYOG VIHAR,, GREATER NOIDA,, 201301, NOIDA"
+      }
+    ],
+    "position": 63
   },
   {
     "brand": "HM",
@@ -186,7 +1633,7 @@
         "address": "RAMARBAG, KUTUBPUR, FATULLAH, 1400, NARAYANGONJ"
       }
     ],
-    "position": 7
+    "position": 64
   },
   {
     "brand": "HM",
@@ -213,67 +1660,583 @@
         "address": "HM doesn't publish informations about suppliers of this item"
       }
     ],
-    "position": 8
+    "position": 65
   },
   {
     "brand": "HM",
-    "name": "A-line skirt",
+    "name": "Shirt dress",
     "depatment": "young",
-    "article_type": "Skirts",
-    "article_number": "0959800001",
+    "article_type": "Dresses",
+    "article_number": "0971359002",
+    "composition": [
+      {
+        "percentage": 97,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 3,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6e%2F00%2F6e00aea620e63a7ef0b0ce9f19cb0e5dcc0b1b51.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 66
+  },
+  {
+    "brand": "HM",
+    "name": "Embroidered twill jacket",
+    "depatment": "young",
+    "article_type": "Jackets",
+    "article_number": "0978975001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F42%2Fe2%2F42e2b8851000f639c15aefb1e9624ab7911fcbc1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Vintage Garments Ltd",
+        "country": "Bangladesh",
+        "address": "East Narshingpur, Buri Para, Ashulia, Savar, 1341, Dhaka"
+      }
+    ],
+    "position": 67
+  },
+  {
+    "brand": "HM",
+    "name": "Batik-patterned pyjamas",
+    "depatment": "young",
+    "article_type": "Nightwear",
+    "article_number": "0991838001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F08%2F20%2F08203232a822c3e351033482150c49ca8254dfc5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 68
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "young",
+    "article_type": "Tops",
+    "article_number": "0961152001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F92%2Fba%2F92bafc6e7e63278fafd59cbe4da5ed44124b4656.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LIBERTY KNITWEAR LTD.",
+        "country": "Bangladesh",
+        "address": "RAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 69
+  },
+  {
+    "brand": "HM",
+    "name": "H&M+ Shirt dress",
+    "depatment": "young",
+    "article_type": "Dresses",
+    "article_number": "0962036002",
+    "composition": [
+      {
+        "percentage": 97,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 3,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdf%2F26%2Fdf26f5e00a114f8eb7e474d0302db44d753aee3c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 70
+  },
+  {
+    "brand": "HM",
+    "name": "Patent belt",
+    "depatment": "young",
+    "article_type": "Accessories",
+    "article_number": "0954589001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyurethane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2F6d%2F4a6d054286e56bc52a512f94b35147452a707abe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 71
+  },
+  {
+    "brand": "HM",
+    "name": "Short-sleeved top",
+    "depatment": "young",
+    "article_type": "Tops",
+    "article_number": "0961147002",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F71%2F78%2F71784f16d9a55cfc75c0d9739c16264a4d40a459.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Ningbo Seduno holiding Co.Ltd.Wuhu Seduno Fashion Co., Ltd.",
+        "country": "China",
+        "address": "Guxi Road, Gulin town, haishu district, 315000, NingboJishan West Road, Economic Development Zone, Nanling, 241000, Wuhu"
+      }
+    ],
+    "position": 72
+  },
+  {
+    "brand": "HM",
+    "name": "Small backpack",
+    "depatment": "young",
+    "article_type": "Accessories",
+    "article_number": "0952929001",
     "composition": [
       {
         "percentage": 100,
         "fiber": "polyester"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F03%2Fbb%2F03bb577e40974900e19a96b60baa756ac0096e40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2F7a%2F0e7a59ae80dc6dbb44c7b652fbd4daf2b7216f4a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
     "suppliers": [
       {
-        "exist?": true,
-        "name": "B.L. INTERNATIONAL (P) LTD.",
-        "country": "India",
-        "address": "NO. 38G,, UDYOG VIHAR,, GREATER NOIDA,, 201301, NOIDA"
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
       }
     ],
-    "position": 9
+    "position": 73
   },
   {
     "brand": "HM",
-    "name": "3-pack zip-up pyjamas",
-    "depatment": "baby",
-    "article_type": "Baby",
-    "article_number": "0310091053",
+    "name": "Printed T-shirt",
+    "depatment": "young",
+    "article_type": "Tops",
+    "article_number": "0961152002",
     "composition": [
       {
         "percentage": 100,
         "fiber": "cotton"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F27%2F3a%2F273a1fe681a0bf87931a835e8358fd69e0ce8830.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babyboy_nightwear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa8%2F19%2Fa8194cad9f6caea2236f897b18436795739ae9cf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "KNIT CONCERN LTD.",
+        "name": "LIBERTY KNITWEAR LTD.",
         "country": "Bangladesh",
-        "address": "62 WATER WORKS ROAD, GODNAIL, 1400, NARAYANGANJ"
+        "address": "RAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJ"
       }
     ],
-    "position": 10
+    "position": 74
   },
   {
     "brand": "HM",
-    "name": "3-pack Skinny Fit Jeans",
-    "depatment": "baby",
-    "article_type": "Baby",
-    "article_number": "0892737001",
+    "name": "Short-sleeved top",
+    "depatment": "young",
+    "article_type": "Tops",
+    "article_number": "0961147001",
     "composition": [
       {
-        "percentage": 67,
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3f%2F6e%2F3f6e8c9506e353149af2e9ef14137aa89c7d525d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LIBERTY KNITWEAR LTD.",
+        "country": "Bangladesh",
+        "address": "RAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 75
+  },
+  {
+    "brand": "HM",
+    "name": "Bow hair clip",
+    "depatment": "young",
+    "article_type": "Accessories",
+    "article_number": "0961994001",
+    "composition": [
+      {
+        "percentage": 81,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 19,
+        "fiber": "steel"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F21%2F6021155fb8bfa8162d0ed4b06fdd2434770d72f1.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 76
+  },
+  {
+    "brand": "HM",
+    "name": "Trainers",
+    "depatment": "young",
+    "article_type": "Shoes",
+    "article_number": "0936002001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb0%2F1c%2Fb01c418e612d313832b75ebb2c910e9a5b946b0c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_shoes_sneakers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "HANDAN CITY BAOZU SHOES CO., LTD",
+        "country": "China",
+        "address": "No. 1 Fuqiang Road, Economic, Development Zone, Jize, ,Handan, Hebei Province, 056000, Han Dan"
+      }
+    ],
+    "position": 77
+  },
+  {
+    "brand": "HM",
+    "name": "H&M+ Printed T-shirt",
+    "depatment": "young",
+    "article_type": "H&M+",
+    "article_number": "0958650001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff1%2F53%2Ff153307120a1d495f9c81725f28e7a112e4f40e5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 78
+  },
+  {
+    "brand": "HM",
+    "name": "Quilted jacket",
+    "depatment": "young",
+    "article_type": "Jackets",
+    "article_number": "0955855004",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc9%2F26%2Fc926b13fca389c3c2c8acc9a7d8aa0683c2fd179.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jacketscoats_jackets%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hubei Amay Apparel Co.,Ltd",
+        "country": "China",
+        "address": "No.2 Haokou Road, Haokou Town, 433100, Qianjiang"
+      }
+    ],
+    "position": 79
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Mom High Ankle Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0941666005",
+    "composition": [
+      {
+        "percentage": 96,
         "fiber": "cotton"
       },
       {
-        "percentage": 31,
+        "percentage": 3,
+        "fiber": "fibres"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0b%2Fbb%2F0bbb5771771a2d4eb9ab82ed4aa1f4ab317b3b30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_mom%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Roo Hsing Garment Co., Ltd. (Cambodia)",
+        "country": "Cambodia",
+        "address": "New Road, Sangkat Toul Sang Ke, Khan Russey Keo,, 999999, Phnom Oenh"
+      }
+    ],
+    "position": 80
+  },
+  {
+    "brand": "HM",
+    "name": "Joggers High Waist",
+    "depatment": "young",
+    "article_type": "Trousers",
+    "article_number": "0759814009",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2F0e%2F200efe9183769335eef7f7d8dc798e58462d6f10.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_joggers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ASWAD COMPOSITE MILLS LTD. ( U-2)LIBAS TEXTILES LTD.LIBERTY KNITWEAR LTD.Shandong Wanli Fashion Co.,Ltd Jiu Nv Subsidiary",
+        "country": "China",
+        "address": "Kabirpur, Ashulia, Savar, 1340, DhakaMouchak, Nischintopur, Kaliakoir, 1740, GazipurRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJJiunv Town, Chengwu county, 274200, Heze"
+      }
+    ],
+    "position": 81
+  },
+  {
+    "brand": "HM",
+    "name": "Mom High Ankle Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0714790020",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0d%2F66%2F0d66f74fb15dd308979243770b7e158541cdf941.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_mom%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Ananta Casual Wear Ltd.Union Sportswear Ltd.ARTISTIC MILLINERS (PVT) LTD. UNIT-4Artistic Milliners (Pvt) Ltd-unit15Denim Clothing Comapny - Unit 4",
+        "country": "Pakistan",
+        "address": "Kunia, KB Bazar, Joydebpur, 1704, Gazipur116, Pagar-Morkon Link Road, Pagar, Tongi, 1710, GazipurPlot No. 2, Sector 25,, Korangi Industrial Area, 74900, KarachiPlot no. 12 & 13,Korangi Industrial, Area, Sector-16, , 74900, KarachiPlot # H/2-A/1, Sector 5,, Korangi Industrial Area, 74900, Karachi"
+      }
+    ],
+    "position": 82
+  },
+  {
+    "brand": "HM",
+    "name": "Mom High Ankle Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0572998001",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcc%2F6a%2Fcc6aa9d3dd2b64b99abab7695237f4a5cd897449.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_loose%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Aba Fashions Ltd.PIMKIE APPARELS LTD.Qingdao HYC Apparel Co., LtdARTISTIC APPARELS (PVT) LTD.US Apparel Private Limited (US-3)",
+        "country": "Pakistan",
+        "address": "521/1 Gacha, Gazipur City Corporation, 1704, GazipurPlot # 328, Block# F, Tongi, Industral Area, 1710, GazipurTaiwan Agricultural Economy, Development Area, Pingdu, 266736, QingdaoPLOT # 4, SECTOR 25, KORANGI, INDUSTRIAL AREA, 74900, Karachi20 KM, Ferozpur Road,, Galaxo Town, 54600, Lahore"
+      }
+    ],
+    "position": 83
+  },
+  {
+    "brand": "HM",
+    "name": "Super Skinny High Jeans",
+    "depatment": "young",
+    "article_type": "Skinny",
+    "article_number": "0706016001",
+    "composition": [
+      {
+        "percentage": 61,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 34,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 3,
+        "fiber": "fibres"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F36%2F1c%2F361c32b4babe40defb697b9f8b7d113024748434.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_skinny_skinnyhigh%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Myanmar York Fashion Co.,LtdZhejiang Tongli Clothing (Myanmar) Co.,LtdMyanmar York Fashion Co.,Ltd",
+        "country": "Myanmar",
+        "address": "Plot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, YangonNo.25 Na Wa Day Mingyi Street,, Shwa Lin Pan Industrial Zone, Hlaing Thar Yar Township, 95478, YangonPlot No.168,Kyansitthar, Street,Industrial Zone No.4,, Hlaing Tharyar Township,, 213244, Yangon"
+      }
+    ],
+    "position": 84
+  },
+  {
+    "brand": "HM",
+    "name": "Loose Wide High Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0958351001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2F18%2F3818c88ff5f74cc1325f04b38859510dd28f8705.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ARTISTIC APPARELS (PVT) LTD.",
+        "country": "Pakistan",
+        "address": "PLOT # 4, SECTOR 25, KORANGI, INDUSTRIAL AREA, 74900, Karachi"
+      }
+    ],
+    "position": 85
+  },
+  {
+    "brand": "HM",
+    "name": "Wide trousers",
+    "depatment": "young",
+    "article_type": "Trousers",
+    "article_number": "0946640002",
+    "composition": [
+      {
+        "percentage": 80,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 18,
+        "fiber": "viscose"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2Fcc%2F20cc5c4945bc3a788b0ce34044b9f3728b104f17.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hubei Amay Apparel Co.,LtdViewking (Suizhou) Garments",
+        "country": "China",
+        "address": "No.2 Haokou Road, Haokou Town, 433100, QianjiangNo.23 old street,, Xihe town, SUIZHOU, HUBEI, 441000, Sui Zhou"
+      }
+    ],
+    "position": 86
+  },
+  {
+    "brand": "HM",
+    "name": "Zip-through hoodie",
+    "depatment": "young",
+    "article_type": "Basics",
+    "article_number": "0920064001",
+    "composition": [
+      {
+        "percentage": 60,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 40,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdb%2F3a%2Fdb3ab23aced0a6f506f260b9993d9ac20b322370.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_basics_tops_longsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT MULIA CEMERLANG ABADI MULTI IND SUKABUMIPT. Busana Indah Global",
+        "country": "Indonesia",
+        "address": "Jl. Raya Siliwangi KM.24 Desa Benda, Kp. Babakan Sari, Kab. Cicurug, Kab. Sukabumi, 43359, SukabumiJl Cireundeu No 10 Kp Pabuaran RT, 01/01 Kec Cibadak Kab Sukabumi, Jawa Barat Indonesia, 43155, Sukabumi"
+      }
+    ],
+    "position": 87
+  },
+  {
+    "brand": "HM",
+    "name": "Tie-back dress",
+    "depatment": "young",
+    "article_type": "Dresses",
+    "article_number": "0938920001",
+    "composition": [
+      {
+        "percentage": 98,
         "fiber": "polyester"
       },
       {
@@ -281,84 +2244,188 @@
         "fiber": "elastane"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fec%2F90%2Fec908967705f4557d30cbff7e858207ab0c68bff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babyboy_jeans%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F82%2F05%2F82051c2e4b47e38e2beca8c212c8542e7bb452f6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "Ananta Casual Wear Ltd.",
-        "country": "Bangladesh",
-        "address": "Kunia, KB Bazar, Joydebpur, 1704, Gazipur"
+        "name": "Gao You Jin Jing Garment Co., Ltd",
+        "country": "China",
+        "address": "No. 1 ChangJiang Road, GaoYou city development Zone, 225600, Gaoyou"
       }
     ],
-    "position": 11
+    "position": 88
   },
   {
     "brand": "HM",
-    "name": "5-pack sleeveless bodysuits",
-    "depatment": "baby",
-    "article_type": "Newborn",
-    "article_number": "0957313007",
+    "name": "Mom High Ankle Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0572998007",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb1%2F45%2Fb145c2d8309a8baa22288a22a6a0f3158d4ea286.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_loose%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Aba Fashions Ltd.PIMKIE APPARELS LTD.",
+        "country": "Bangladesh",
+        "address": "521/1 Gacha, Gazipur City Corporation, 1704, GazipurPlot # 328, Block# F, Tongi, Industral Area, 1710, Gazipur"
+      }
+    ],
+    "position": 89
+  },
+  {
+    "brand": "HM",
+    "name": "Hooded top",
+    "depatment": "young",
+    "article_type": "Sweatshirts",
+    "article_number": "0715624002",
     "composition": [
       {
         "percentage": 100,
         "fiber": "cotton"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4a%2F98%2F4a98ea78046df9b31d96d9fef89deb8cbd0700f9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_newborn_bodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc0%2Fed%2Fc0ed5377eb695c3cca2350d5d799e2b0676684df.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_hoodiesswetshirts_hoodies%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "JAY JAY TEXTILES PLC",
-        "country": "Ethiopia",
-        "address": "Wereda 11, Bole Lemi Industry Zone, Bole, Sub-city Building no: 7,8,9, 0000, Addis ababa"
+        "name": "ASWAD COMPOSITE MILLS LTD. ( U-2)LIBAS TEXTILES LTD.LIBERTY KNITWEAR LTD.Liberty Knitwear Ltd (Unit-2)PT. Doo San Dunia BusanaPT. Doo San Jaya SukabumiPT. MINU GARMENT SUKSESORGI ILETISIM VE TEKSTIL SAN.TIC.LTD.STI.",
+        "country": "Turkey",
+        "address": "Kabirpur, Ashulia, Savar, 1340, DhakaMouchak, Nischintopur, Kaliakoir, 1740, GazipurRAMARBAGH, KUTUBPUR, FATULLAH, 1400, NARAYANGANJHolding # G-88/1,, Chandra (Polli Biddut),, Kaliakoir,, 1753, GazipurJL.Raya Parungkuda Km.21 DS, Jawa Barat, Java, 48857, SukabumiDesa Kompa, KP.Bojong JL.Raya, Sukabumi Kec.Parung Kuda, 43357, SukabumiKp Bojong Larang RT 09/04,, Ds Pondok Kaso Landeuh kec, Parungkuda, 43157, SukabumiFatsa Organize Sanayi Bolgesi, 100.Sok NO:2, 52400, ORDU"
       }
     ],
-    "position": 12
+    "position": 90
   },
   {
     "brand": "HM",
-    "name": "2-piece set",
-    "depatment": "kid",
-    "article_type": "set",
-    "article_number": "0963116001",
+    "name": "Puff-sleeved cotton shirt",
+    "depatment": "young",
+    "article_type": "Shirts",
+    "article_number": "0968784002",
     "composition": [
       {
-        "percentage": 80,
+        "percentage": 100,
         "fiber": "cotton"
-      },
-      {
-        "percentage": 20,
-        "fiber": "polyester"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F10%2F46%2F10466a892f983632d8d9c28c9fdbf7395644686d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F86%2Fea%2F86ea2e40413c945dcff21e294219b061781e3ac8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "PT. KAHATEX - MAJALAYA (jersey)",
-        "country": "Indonesia",
-        "address": "Jl. Rancaekek Majalaya no. 389, Desa Solokan Jeruk, Kab. Bandung - Jawa Barat, 40382, Bandung"
+        "name": "WEARWEL - I",
+        "country": "India",
+        "address": "NH 206, HINDISKERE GATE, 572201, TIPTUR"
       }
     ],
-    "position": 13
+    "position": 91
   },
   {
     "brand": "HM",
-    "name": "3-pack joggers",
-    "depatment": "kid",
-    "article_type": "joggers",
-    "article_number": "0738873028",
+    "name": "Flared leggings",
+    "depatment": "young",
+    "article_type": "Trousers",
+    "article_number": "0927865001",
     "composition": [
       {
-        "percentage": 59,
+        "percentage": 58,
         "fiber": "cotton"
       },
       {
-        "percentage": 41,
+        "percentage": 38,
         "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "elastane"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5e%2Fb6%2F5eb693d2a8bb0d94a99533efbb14b035ea63351e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boy8y_trousers_loose%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2e%2Fb0%2F2eb0f0eb7568f0e1c9c958b333738ba5be6db998.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_trousers_leggings%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Vanco Industrial Company Ltd (Cambodia)",
+        "country": "Cambodia",
+        "address": "Nation Road #4, Phum Chork, Sangkat Beik Chan, Srok Angsneurl, 999094, Kandal"
+      }
+    ],
+    "position": 92
+  },
+  {
+    "brand": "HM",
+    "name": "Slim Mom High Ankle Jeans",
+    "depatment": "young",
+    "article_type": "Jeans",
+    "article_number": "0941666004",
+    "composition": [
+      {
+        "percentage": 96,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 3,
+        "fiber": "fibres"
+      },
+      {
+        "percentage": 1,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F63%2F70%2F63703dc82ad7060188a6b427a8e6292270161fa8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bladies_jeans_mom%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Roo Hsing Garment Co., Ltd. (Cambodia)",
+        "country": "Cambodia",
+        "address": "New Road, Sangkat Toul Sang Ke, Khan Russey Keo,, 999999, Phnom Oenh"
+      }
+    ],
+    "position": 93
+  },
+  {
+    "brand": "HM",
+    "name": "Floral dungarees",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0957231001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb0%2Fdb%2Fb0db4d3ffd244ccddea333d2b7da55373a801543.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "INDIAN DESIGNS - Unit NJK Enterprises",
+        "country": "India",
+        "address": "106/138, Nagavara Village, Main Road, Kasaba Hobli ,, 560045, Bangalore"
+      }
+    ],
+    "position": 94
+  },
+  {
+    "brand": "HM",
+    "name": "Smocked floral romper suit",
+    "depatment": "baby",
+    "article_type": "floral",
+    "article_number": "0963647001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F08%2Fbc%2F08bc67979d8bb29e0208f43e9b261740d23e4c27.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
@@ -367,29 +2434,1308 @@
         "address": "HOTAPARA, 1740, GAZIPUR"
       }
     ],
-    "position": 14
+    "position": 95
   },
   {
     "brand": "HM",
-    "name": "Jersey dress",
-    "depatment": "kid",
-    "article_type": "Girls",
-    "article_number": "0620197086",
+    "name": "Patterned sandals",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0967366001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "rubber"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd2%2Fc9%2Fd2c98556a17db3803eb4bc682345a37a04a438df.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 96
+  },
+  {
+    "brand": "HM",
+    "name": "Floral jersey dress",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0963645001",
     "composition": [
       {
         "percentage": 100,
         "fiber": "cotton"
       }
     ],
-    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F53%2Fa2%2F53a26dbb74dc9998fb920a5c4c29378eef9ee879.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_girl8y_dressesskirts_dresses%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2F21%2F51214c50af05ea5133cce9c434eb36af1326bb3f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
     "suppliers": [
       {
         "exist?": true,
-        "name": "IRIS FABRICS LIMITED",
+        "name": "UTAH KNITTING AND DYEING LTD.",
         "country": "Bangladesh",
-        "address": "Zirani Bazar, Kashimpur, 1349, Gazipur"
+        "address": "HOTAPARA, 1740, GAZIPUR"
       }
     ],
-    "position": 15
+    "position": 97
+  },
+  {
+    "brand": "HM",
+    "name": "Printed jersey top",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0963646002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F87%2F23%2F8723649ebeddbe4a91d9a80b084e4e15b31a4f02.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "UTAH KNITTING AND DYEING LTD.",
+        "country": "Bangladesh",
+        "address": "HOTAPARA, 1740, GAZIPUR"
+      }
+    ],
+    "position": 98
+  },
+  {
+    "brand": "HM",
+    "name": "Floral trainers",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0975994001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2Fb7%2F7db7845fa03061f9127390ab129662d5ee80b7bd.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 99
+  },
+  {
+    "brand": "HM",
+    "name": "Floral leggings",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0963644001",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F52%2F1b%2F521b32dbcfe3104799db2ce0dca8ae301087c7cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "UTAH KNITTING AND DYEING LTD.",
+        "country": "Bangladesh",
+        "address": "HOTAPARA, 1740, GAZIPUR"
+      }
+    ],
+    "position": 100
+  },
+  {
+    "brand": "HM",
+    "name": "UPF 50 floral sun hat",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0962648001",
+    "composition": [
+      {
+        "percentage": 81,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 19,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2F02%2F590232fd9cf2ad32f705ddd99700b7aa96210f04.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 101
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned shirt",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0972739001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffb%2Fd3%2Ffbd346105b796879f6eec9480ab48583536dc294.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "INDIAN DESIGNS EXPORTS PVT LTD",
+        "country": "India",
+        "address": "NO. 10, Behind Lidkar quarters, K.G. Halli, 560045, Bangalore"
+      }
+    ],
+    "position": 102
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned shorts",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0936490001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F10%2F5f%2F105f7dadce504b76370e4eb1ead7c5c9f4982497.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ECHOTEX LTD.",
+        "country": "Bangladesh",
+        "address": "Chandra, Palli Biddut, Kaliakoir, 1750, Gazipur"
+      }
+    ],
+    "position": 103
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0942215002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F85%2Fa185a82124b24d1adb00372dc6200fba871cc828.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ECHOTEX LTD.",
+        "country": "Bangladesh",
+        "address": "Chandra, Palli Biddut, Kaliakoir, 1750, Gazipur"
+      }
+    ],
+    "position": 104
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0942215001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0f%2F5d%2F0f5da8de30aa79b398fb24ec66b465c302181592.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "SUMOTEKS TEKSTIL URUNL. URT.VE PAZ LTD.STI",
+        "country": "Turkey",
+        "address": "FATIH CADDESI, AKASYA SOKAK, KERESTECILER SIT., 10/1, GUNGOREN, 34010, ISTANBUL"
+      }
+    ],
+    "position": 105
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned swim shorts",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0967850001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F78%2Ff5%2F78f51ed848ad2daeeed4d7fb14b4711aefe3ce0a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 106
+  },
+  {
+    "brand": "HM",
+    "name": "5-pack jersey shorts",
+    "depatment": "baby",
+    "article_type": "Newborn",
+    "article_number": "0744966005",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Ff4%2F1bf4361b9f88d5cc4c56742269c3e5193a82dc00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_newborn_bottoms%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT.Sai Apparel Industries",
+        "country": "Indonesia",
+        "address": "Jl Brigjend Sudiarto Km 11, 50194, Semarang"
+      }
+    ],
+    "position": 107
+  },
+  {
+    "brand": "HM",
+    "name": "2-piece linen set",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0839583002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "linen"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff1%2F62%2Ff1629c9b9cbe5f4fce9d93f38bf0e2f112281655.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babygirl_sets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Fuzhou Toprich Textiles Corp.,LtdJiangsu Sunstar Garments Co.,Ltd",
+        "country": "China",
+        "address": "Building No.7, No.756 Qi An Road, Gaishan Town, Cangshan District, 350002, Fu ZhouIntersection of Xuhuai Road& Nan er, Road Sucheng Economic Development, Zone, 223800, Suqian"
+      }
+    ],
+    "position": 108
+  },
+  {
+    "brand": "HM",
+    "name": "3-piece cotton set",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0941174001",
+    "composition": [
+      {
+        "percentage": 94,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 4,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 2,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe4%2Fb1%2Fe4b1c43c32e9ac4d9b6e2843c4d518da7cd1a351.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Seduno Investment Cambo Fashion Co.,Ltd.",
+        "country": "Cambodia",
+        "address": "Street 217, Sangkat Dangkor, Khan Dangkor, 999094, Phnom Penh"
+      }
+    ],
+    "position": 109
+  },
+  {
+    "brand": "HM",
+    "name": "3-piece cotton set",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0932242003",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2F22%2F97220b2ab8019d144484ef8bd55f5a7cf7c274da.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "SHAHI EXPORTS (UNIT-15/1,FARIDABAD)",
+        "country": "India",
+        "address": "15/1, MAIN MATHURA ROAD, 121003, FARDIABAD"
+      }
+    ],
+    "position": 110
+  },
+  {
+    "brand": "HM",
+    "name": "Lace-collared bodysuit",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0932397001",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2F5f%2F735fce0a52a28ceb3907e0aacbf323443f50844f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "HENGDA(Myanmar) Apparel Co.,Ltd.",
+        "country": "Myanmar",
+        "address": "No15/1,16/1Lwin No.577 kyaut pona,, innluk village.Hmaw Bi Township,  11181, yangon"
+      }
+    ],
+    "position": 111
+  },
+  {
+    "brand": "HM",
+    "name": "Denim jacket",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0694561009",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd9%2F90%2Fd99051560f068c33ab5b6dd3fe7645c9a062d63b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babygirl_outdoor%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PIMKIE APPARELS LTD.",
+        "country": "Bangladesh",
+        "address": "Plot # 328, Block# F, Tongi, Industral Area, 1710, Gazipur"
+      }
+    ],
+    "position": 112
+  },
+  {
+    "brand": "HM",
+    "name": "Cotton sun hat",
+    "depatment": "baby",
+    "article_type": "Newborn",
+    "article_number": "0960336002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2F1a%2Feb1aca4ec42cfd97e5f3dfe7a83e6f2566794f27.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_newborn_accessories%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "INDIAN DESIGNS - Unit NJK EnterprisesINDIAN DESIGNS EXPORTS PVT. LTD. - UNIT XI",
+        "country": "India",
+        "address": "106/138, Nagavara Village, Main Road, Kasaba Hobli ,, 560045, BangaloreNO.1/2 NAGAWARA MAIN ROAD, 560045, Bangalore"
+      }
+    ],
+    "position": 113
+  },
+  {
+    "brand": "HM",
+    "name": "5-pack jersey shorts",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0835016002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8d%2Fe6%2F8de63b1d9a30df9922bc4b61dfa43ccd0c8cd4a0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babygirl_shorts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "PT.Sai Apparel Industries",
+        "country": "Indonesia",
+        "address": "Jl Brigjend Sudiarto Km 11, 50194, Semarang"
+      }
+    ],
+    "position": 114
+  },
+  {
+    "brand": "HM",
+    "name": "3-piece cotton set",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0923803002",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F58%2F8f%2F588f49be864677ee42ab7c4ddbb9cba53c3241d6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "COTTON WORLD UNIT - 2",
+        "country": "India",
+        "address": "PLOT NO 48/4 AND 9 KARIHOBANAHALLI, PEENYA 2ND STAGE, BANGALORE NORTH TALUK, 560058, BENGALURU"
+      }
+    ],
+    "position": 115
+  },
+  {
+    "brand": "HM",
+    "name": "5-pack cotton tops",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0937036001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F57%2Fbd57499c4275928d7ca9ea45e3d494a8833f9e81.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "FAKIR KNITWEARS LTD.",
+        "country": "Bangladesh",
+        "address": "KAYEMPUR, FATULLAH, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 116
+  },
+  {
+    "brand": "HM",
+    "name": "2-pack cotton dungarees",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0839319003",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd9%2Ff7%2Fd9f7c1df33e5c7ca9165a033e608afe66f6f9ea7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babyboy_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KNIT CONCERN LTD.",
+        "country": "Bangladesh",
+        "address": "62 WATER WORKS ROAD, GODNAIL, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 117
+  },
+  {
+    "brand": "HM",
+    "name": "2-pack cotton joggers",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0795825010",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4d%2F10%2F4d10f672ecb002820772fe1adceb25d192209c47.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babyboy_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Flamingo Fashions Ltd Unit 2",
+        "country": "Bangladesh",
+        "address": "Mariali, Joydebpur, 1700, Gazipur"
+      }
+    ],
+    "position": 118
+  },
+  {
+    "brand": "HM",
+    "name": "2-pack jersey pyjamas",
+    "depatment": "baby",
+    "article_type": "Newborn",
+    "article_number": "0532229038",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2F6f%2F936fad633458c676f884169bdef4d39932de2b9f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_newborn_nightwear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 119
+  },
+  {
+    "brand": "HM",
+    "name": "2-pack pyjamas",
+    "depatment": "baby",
+    "article_type": "Newborn",
+    "article_number": "0523625022",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F96%2F81%2F9681300b41a9fda41962ee52574c2597e58a5d8d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_newborn_nightwear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "LIBAS TEXTILES LTD.",
+        "country": "Bangladesh",
+        "address": "Mouchak, Nischintopur, Kaliakoir, 1740, Gazipur"
+      }
+    ],
+    "position": 120
+  },
+  {
+    "brand": "HM",
+    "name": "2-piece cotton set",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0949811001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F90%2F97%2F9097193b38ecc37aaca2f4f96e8d9eac800b3e84.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KNIT CONCERN LTD.",
+        "country": "Bangladesh",
+        "address": "62 WATER WORKS ROAD, GODNAIL, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 121
+  },
+  {
+    "brand": "HM",
+    "name": "3-pack zip-up pyjamas",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0310091040",
+    "composition": [
+      {
+        "percentage": 99,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 1,
+        "fiber": "viscose"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff0%2Ff7%2Ff0f71b3b2729811afb08c08c303c74fe89cd394f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babyboy_nightwear%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KNIT CONCERN LTD.Jiangyin Jingdi Gmts Fty",
+        "country": "China",
+        "address": "62 WATER WORKS ROAD, GODNAIL, 1400, NARAYANGANJ18 Huanxi Road, Wenlin Beiwan Industry Zone, Zhutang Town, 214415, Jiangyin"
+      }
+    ],
+    "position": 122
+  },
+  {
+    "brand": "HM",
+    "name": "5-pack sleeveless bodysuits",
+    "depatment": "baby",
+    "article_type": "Newborn",
+    "article_number": "0957313003",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7f%2F62%2F7f62052c89df90eec72831e0dcda7264d3c3fe45.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_baby_boy_clothing_bodysuits%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Hung Wah (Cambodia) Gmt. Manufac Ltd.HUNG KIU (MYANMAR) GARMENT MANUFACTURING LIMITED.",
+        "country": "Myanmar",
+        "address": "Trapeang Kleong Village, Sangkat Chom Chao, Khan Porsenchey, 12405, Phnom PenhNo.35/9, Yangon-Mandalay Road,, Inndakaw Village, Bago, Township, Bago Region, 11181, Yangon"
+      }
+    ],
+    "position": 123
+  },
+  {
+    "brand": "HM",
+    "name": "Cotton canvas sandals",
+    "depatment": "baby",
+    "article_type": "Baby",
+    "article_number": "0807908011",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2F3b%2F0e3b440fcd0adafd556f0449b784c9e6d2354f2c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_babygirl_shoes%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Qingdao Renda Shoes CO.,LTD",
+        "country": "China",
+        "address": "No.19,Juhe Road,, Laixi City, 266605, Qingdao"
+      }
+    ],
+    "position": 124
+  },
+  {
+    "brand": "HM",
+    "name": "2-piece cotton set",
+    "depatment": "kid",
+    "article_type": "cotton",
+    "article_number": "0937438001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1b%2Ffa%2F1bfa915d935635e362e33943edd661bc1522f323.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ROYAL EXPORTS",
+        "country": "India",
+        "address": "NO. 83-84, Chikka Adugodi,, Thaverekere Main Road,D.R.C, 560029, Bangalore"
+      }
+    ],
+    "position": 125
+  },
+  {
+    "brand": "HM",
+    "name": "Satin bomber jacket",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0927200001",
+    "composition": [
+      {
+        "percentage": 96,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F34%2F73%2F3473271abb8419fbef236be47d62c6d5a5601c75.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Nanjing Mallexe Textile Co, Ltd.",
+        "country": "China",
+        "address": "99# JinNiu North Road, HongLan town Economy Zone, LiShui, Dis NANJING, JIANGSU, 211200, Nan JIn"
+      }
+    ],
+    "position": 126
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned joggers",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0953652001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F14%2Fec%2F14ec336f0cee55d2728527bd3cfabfe2e539033a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 127
+  },
+  {
+    "brand": "HM",
+    "name": "Floral leggings",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0957282001",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F37%2F5a%2F375ae6c7d0c76370b3f0feb8ce043cabecba9232.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 128
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned bomber jacket",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0953656001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F13%2Ffd%2F13fd46cd0167dddd5d2eb7158a036586fc1645a6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 129
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned sandals",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0965897001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2F4c%2F6f4c0fb77240229ad21c62a50205d644a0af70bf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 130
+  },
+  {
+    "brand": "HM",
+    "name": "Motif-detail jersey top",
+    "depatment": "kid",
+    "article_type": "jersey",
+    "article_number": "0957285002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe6%2Fee%2Fe6ee2e2df9b8a0df2f2384e101f088e4819029ac.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 131
+  },
+  {
+    "brand": "HM",
+    "name": "Floral trainers",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0983126001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2F82%2Ff882309628717065e8aa4f13272868916cac5da9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 132
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned hoodie",
+    "depatment": "kid",
+    "article_type": "hoodie",
+    "article_number": "0939057001",
+    "composition": [
+      {
+        "percentage": 90,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 10,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2Ff2%2Fd7f26fd8a01362f5a749005c1b8f7d54c89248af.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 133
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "kid",
+    "article_type": "T-shirt",
+    "article_number": "0953655001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F86%2Fcb%2F86cb46bbe5418fcda1824b3bdad8031bf78bc729.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 134
+  },
+  {
+    "brand": "HM",
+    "name": "Floral parka",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0927215001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F54%2F23%2F54239e382235863d84570c894e56d0d8ca912e24.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "ORBITEX KNITWEAR LIMITED",
+        "country": "Bangladesh",
+        "address": "GORAT, SARKER MARKET ROAD, ASHULIA, 1341, DHAKA"
+      }
+    ],
+    "position": 135
+  },
+  {
+    "brand": "HM",
+    "name": "Satin bomber jacket",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0927294001",
+    "composition": [
+      {
+        "percentage": 96,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fcb%2F9e%2Fcb9e8a773c69d3460f7678560c96bc9b44d42bf9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Ji'ning Aisi Garment Co., Ltd.",
+        "country": "China",
+        "address": "Shiji Middle Road,, Economic Development Zone,, 272000, Jining"
+      }
+    ],
+    "position": 136
+  },
+  {
+    "brand": "HM",
+    "name": "Motif-detail jersey top",
+    "depatment": "kid",
+    "article_type": "jersey",
+    "article_number": "0957285003",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2F86%2F2f862eaad5e0a979fcac0128459e222b902df9da.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 137
+  },
+  {
+    "brand": "HM",
+    "name": "Flounced floral swimsuit",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0970608001",
+    "composition": [
+      {
+        "percentage": 84,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 16,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2c%2F99%2F2c99489e727b6fd96b40b040c4cdb9bc95060076.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Wuhu Seduno Fashion Co., Ltd.",
+        "country": "China",
+        "address": "Jishan West Road, Economic Development Zone, Nanling, 241000, Wuhu"
+      }
+    ],
+    "position": 138
+  },
+  {
+    "brand": "HM",
+    "name": "Patterned shorts",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0939058001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc5%2F27%2Fc52741e8dcf630f7b5e8b5944cf91e5054d4b3a5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BENVIRONMENT%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 139
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "kid",
+    "article_type": "T-shirt",
+    "article_number": "0938809001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F65%2F0f%2F650f1874fcbbe5ea0075d8c00c2df6ff23372295.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 140
+  },
+  {
+    "brand": "HM",
+    "name": "Satin bomber jacket",
+    "depatment": "kid",
+    "article_type": "Girls",
+    "article_number": "0927200002",
+    "composition": [
+      {
+        "percentage": 96,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 4,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ffe%2F5f%2Ffe5f9a78159bf7bac2c17a3e84de63a45f278956.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "SHANDONG RISINGSUN GARMENTS CO., LTD.",
+        "country": "China",
+        "address": "Middle of Konglin East Road, 273100, Qufu"
+      }
+    ],
+    "position": 141
+  },
+  {
+    "brand": "HM",
+    "name": "Printed tie-hem top",
+    "depatment": "kid",
+    "article_type": "tie-hem",
+    "article_number": "0938725001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fee%2F97%2Fee974ab147b31b3cd03a71440ee1178003672476.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 142
+  },
+  {
+    "brand": "HM",
+    "name": "Printed T-shirt",
+    "depatment": "kid",
+    "article_type": "T-shirt",
+    "article_number": "0953655002",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F73%2Ffa%2F73fa53af305b7e63706c8bbbca6e7bb984320dfe.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 143
+  },
+  {
+    "brand": "HM",
+    "name": "Printed jersey top",
+    "depatment": "kid",
+    "article_type": "jersey",
+    "article_number": "0953654001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fba%2F21%2Fba21f3b6073b32b22f9823be71c3ba0369c51cdb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 144
+  },
+  {
+    "brand": "HM",
+    "name": "Printed pyjamas",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0951036001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F26%2F51%2F2651582a775cfe1f1638dcd15bfca94547ae9273.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KNIT CONCERN LTD.",
+        "country": "Bangladesh",
+        "address": "62 WATER WORKS ROAD, GODNAIL, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 145
+  },
+  {
+    "brand": "HM",
+    "name": "3-pack scrunchies",
+    "depatment": "kid",
+    "article_type": "scrunchies",
+    "article_number": "0965704001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fea%2F55%2Fea5513662d5a5b5529118e60bc02abfdf6e2561e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Tong Yi Accessories Factory",
+        "country": "China",
+        "address": "No.18,4th Qianjing Rd, No,3 Ind park, Tanzhou Town, 528467, Zhongshan"
+      }
+    ],
+    "position": 146
+  },
+  {
+    "brand": "HM",
+    "name": "Motif-detail jersey top",
+    "depatment": "kid",
+    "article_type": "jersey",
+    "article_number": "0957285001",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "cotton"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8f%2F71%2F8f71b15fbc876d67b4aa9bc4ad369da1cfecf45b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": false,
+        "name": "n/a",
+        "country": "n/a",
+        "address": "HM doesn't publish informations about suppliers of this item"
+      }
+    ],
+    "position": 147
+  },
+  {
+    "brand": "HM",
+    "name": "UPF 50 patterned swim top",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0966460001",
+    "composition": [
+      {
+        "percentage": 84,
+        "fiber": "polyester"
+      },
+      {
+        "percentage": 16,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff2%2F80%2Ff280e8043346b64409fc49dd086df2592dc335a9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "Wuhu Seduno Fashion Co., Ltd.",
+        "country": "China",
+        "address": "Jishan West Road, Economic Development Zone, Nanling, 241000, Wuhu"
+      }
+    ],
+    "position": 148
+  },
+  {
+    "brand": "HM",
+    "name": "5-pack printed boxer shorts",
+    "depatment": "kid",
+    "article_type": "Boys",
+    "article_number": "0951037001",
+    "composition": [
+      {
+        "percentage": 95,
+        "fiber": "cotton"
+      },
+      {
+        "percentage": 5,
+        "fiber": "elastane"
+      }
+    ],
+    "img": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fce%2Fa7%2Fcea70c21495098df8b1cce8b2fb8c253aa633aa6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+    "suppliers": [
+      {
+        "exist?": true,
+        "name": "KC LINGERIE LTD.",
+        "country": "Bangladesh",
+        "address": "57/1, WATER WORKS ROAD, Godnail, SIDDERGONJ, 1400, NARAYANGANJ"
+      }
+    ],
+    "position": 149
   }
 ]
