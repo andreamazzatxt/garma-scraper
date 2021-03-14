@@ -53,7 +53,7 @@ class HmSpider < Kimurai::Base
 
     # Scrape Supplier Info
 
-    save_to './data/hm_PROVA.json', item, format: :pretty_json
+    save_to './data/hm_items.json', item, format: :pretty_json
   end
 
   private
@@ -101,13 +101,24 @@ class HmSpider < Kimurai::Base
   def get_supplier_info(response, found)
     # some items doesn't have info about the supplier
     exist = response.css('#portal').any? && found
-    [] << {
-      exist?: exist,
-      name: exist ? response.css('#portal').css('article').css('h4').text : 'n/a',
-      country: exist ? response.css('#portal').css('h3')[-1].text : 'n/a',
-      address: exist ? response.css('#portal').css('article').css('address').text
-                         : "#{BRAND} doesn't publish informations about suppliers of this item"
-    }
+    if exist
+      return {
+        exist?: exist,
+        list: [
+          {
+            name: response.css('#portal').css('article').css('h4').text,
+            country: response.css('#portal').css('h3')[-1].text,
+            address: response.css('#portal').css('article').css('address').text
+          }
+        ]
+      }
+    else
+      return {
+        exist?: exist,
+        alternative: "#{BRAND} doesn't publish informations about suppliers of this item"
+      }
+    end
+
   end
 end
 

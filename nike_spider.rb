@@ -7,14 +7,12 @@ class NikeSpider < Kimurai::Base
   # Limit pagination scrolling t n. number of pages
   # nil for infinity(scraper stops when there are no more new articles)
   BRAND = 'NIKE'.freeze
-  LIMIT = 1
+  LIMIT = 3
   USER_AGENTS = %w[Chrome Firefox Safari Opera].freeze
   @name = 'nike_spider'
   @engine = :selenium_chrome
   @start_urls = ['https://www.nike.com/gb/w/mens-clothing-6ymx6znik1',
-                 'https://www.nike.com/gb/w/womens-clothing-5e1x6z6ymx6',
-                 'https://www.nike.com/gb/w/womens-shoes-5e1x6zy7ok',
-                 'https://www.nike.com/gb/w/mens-shoes-nik1zy7ok']
+                 'https://www.nike.com/gb/w/womens-clothing-5e1x6z6ymx6']
   @config = {
     user_agent: -> { USER_AGENTS.sample }
     # retry_request_errors: [{ error: NoMethodError, skip_on_failure: true }]
@@ -46,7 +44,7 @@ class NikeSpider < Kimurai::Base
 
   def get_article_number(response)
     response.css('.description-preview__features')
-            .text.match(/Style:\s(.+)/)[1] ||
+            .text.match(/Style:\s(.+)/)[1]
   end
 
   def get_name(response)
@@ -85,9 +83,6 @@ class NikeSpider < Kimurai::Base
     end
     {
       exist?: false,
-      name: 'n/a',
-      country: 'n/a',
-      address: 'n/a',
       alternative: alternative
     }
   end
