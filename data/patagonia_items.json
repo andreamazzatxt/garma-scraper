@@ -7,14 +7,26 @@
     "article_number": "85125",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwc5b5bf7f/images/hi-res/85125_CHRT_TM1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Manufacturing Sportswear Joint Stock Company - Thai Binh Branch",
+          "country": "Vietnam",
+          "address": "Thai Binh City, null, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 1
   },
   {
@@ -25,14 +37,26 @@
     "article_number": "85230",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "http://i.ytimg.com/vi/VL_bfwkQLi0/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Manufacturing Sportswear Joint Stock Company - Thai Binh Branch",
+          "country": "Vietnam",
+          "address": "Thai Binh City, null, Vietnam"
+        },
+        {
+          "name": "W.L. Gore & Associates, Inc.",
+          "country": "United States",
+          "address": "Elkton, MD, United States"
+        }
+      ]
+    },
     "position": 2
   },
   {
@@ -43,14 +67,26 @@
     "article_number": "83402",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/CuH1U-MngVY/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Manufacturing Sportswear Joint Stock Company - Thai Binh Branch",
+          "country": "Vietnam",
+          "address": "Thai Binh City, null, Vietnam"
+        },
+        {
+          "name": "W.L. Gore & Associates, Inc.",
+          "country": "United States",
+          "address": "Elkton, MD, United States"
+        }
+      ]
+    },
     "position": 3
   },
   {
@@ -61,18 +97,21 @@
     "article_number": "85115",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
-      },
-      {
-        "percentage": 13,
-        "fiber": "biobased content"
       }
     ],
     "img": "http://i.ytimg.com/vi/ae0JtrEgqpA/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        }
+      ]
+    },
     "position": 4
   },
   {
@@ -83,14 +122,26 @@
     "article_number": "84986",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/TEPo5Dyqwm8/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "W.L. Gore & Associates, Inc.",
+          "country": "United States",
+          "address": "Elkton, MD, United States"
+        }
+      ]
+    },
     "position": 5
   },
   {
@@ -101,14 +152,15 @@
     "article_number": "85000",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/Vu85JuxSzz8/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 6
   },
   {
@@ -119,14 +171,15 @@
     "article_number": "24111",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "http://i.ytimg.com/vi/0QGzkqTd_lk/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 7
   },
   {
@@ -137,18 +190,21 @@
     "article_number": "85240",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
-      },
-      {
-        "percentage": 13,
-        "fiber": "biobased content"
       }
     ],
     "img": "http://i.ytimg.com/vi/c8Zy9_1vKX4/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Youngone Namdinh Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Nam Dinh City, Nam Dinh, Vietnam"
+        }
+      ]
+    },
     "position": 8
   },
   {
@@ -159,14 +215,15 @@
     "article_number": "84902",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/5n_hkdu9pF0/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 9
   },
   {
@@ -177,14 +234,15 @@
     "article_number": "27640",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "organic cotton"
       }
     ],
     "img": "http://i.ytimg.com/vi/7tnzj_PE6lQ/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 10
   },
   {
@@ -195,18 +253,15 @@
     "article_number": "28388",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "polyester "
-      },
-      {
-        "percentage": 50,
-        "fiber": "recycled"
       }
     ],
     "img": "http://i.ytimg.com/vi/gEAEHw4hOAU/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 11
   },
   {
@@ -217,14 +272,26 @@
     "article_number": "20700",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "http://i.ytimg.com/vi/DTZ9_6M_Pmk/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Manufacturing Sportswear Joint Stock Company - Thai Binh Branch",
+          "country": "Vietnam",
+          "address": "Thai Binh City, null, Vietnam"
+        },
+        {
+          "name": "W.L. Gore & Associates, Inc.",
+          "country": "United States",
+          "address": "Elkton, MD, United States"
+        }
+      ]
+    },
     "position": 12
   },
   {
@@ -244,9 +311,16 @@
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw7f7215c7/images/hi-res/20945_NENA_TM1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        }
+      ]
+    },
     "position": 13
   },
   {
@@ -257,14 +331,15 @@
     "article_number": "26075",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw72fff12e/images/hi-res/26075_NENA_KT1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 14
   },
   {
@@ -275,14 +350,15 @@
     "article_number": "26085",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw71f9174e/images/hi-res/26085_SPRB_SJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 15
   },
   {
@@ -310,9 +386,16 @@
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw6240985f/images/hi-res/26935_OAT_MK1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "V.T. Garment Co., Ltd.",
+          "country": "Thailand",
+          "address": "Yannawa, Bangkok, Thailand"
+        }
+      ]
+    },
     "position": 16
   },
   {
@@ -323,14 +406,26 @@
     "article_number": "85300",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "nylon ripstop"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw5214f7ca/images/hi-res/85300_CHRT_MR1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 17
   },
   {
@@ -341,14 +436,26 @@
     "article_number": "84030",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "nylon ripstop"
       }
     ],
     "img": "http://i.ytimg.com/vi/nxGJkwGjyJk/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 18
   },
   {
@@ -359,14 +466,15 @@
     "article_number": "84065",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "nylon ripstop"
       }
     ],
     "img": "http://i.ytimg.com/vi/7fTeUnsEHno/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 19
   },
   {
@@ -377,14 +485,15 @@
     "article_number": "84075",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "nylon ripstop"
       }
     ],
     "img": "http://i.ytimg.com/vi/OZC4BP58ET8/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 20
   },
   {
@@ -395,25 +504,15 @@
     "article_number": "84212",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/I5aJ9AYV2fU/maxresdefault.jpg",
-    "supplier": [
-      {
-        "exist?": true,
-        "name": "Quang Viet Enterprise Co., Ltd.",
-        "country": "Vietnam",
-        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
-      },
-      {
-        "exist?": true,
-        "name": "Toyota Tsusho",
-        "country": "Japan",
-        "address": "Chuo-ku, Osaka, Japan"
-      }
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 21
   },
   {
@@ -424,14 +523,26 @@
     "article_number": "84222",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 22
   },
   {
@@ -442,14 +553,26 @@
     "article_number": "84242",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/-3mBBRQMNiM/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 23
   },
   {
@@ -460,18 +583,15 @@
     "article_number": "84252",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "polyester "
-      },
-      {
-        "percentage": 87,
-        "fiber": "recycled"
       }
     ],
     "img": "http://i.ytimg.com/vi/3jUlKjpxn6c/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 24
   },
   {
@@ -482,14 +602,15 @@
     "article_number": "84222",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 25
   },
   {
@@ -500,14 +621,15 @@
     "article_number": "84242",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/-3mBBRQMNiM/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 26
   },
   {
@@ -518,25 +640,26 @@
     "article_number": "84222",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/b7PXIZkHynA/maxresdefault.jpg",
-    "supplier": [
-      {
-        "exist?": true,
-        "name": "Quang Viet Enterprise Co., Ltd.",
-        "country": "Vietnam",
-        "address": "Cu Chi District, Ho Chi Minh, Vietnam"
-      },
-      {
-        "exist?": true,
-        "name": "Toyota Tsusho",
-        "country": "Japan",
-        "address": "Chuo-ku, Osaka, Japan"
-      }
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 27
   },
   {
@@ -547,14 +670,26 @@
     "article_number": "84212",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/I5aJ9AYV2fU/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
     "position": 28
   },
   {
@@ -565,14 +700,15 @@
     "article_number": "83407",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "http://i.ytimg.com/vi/1uEKbzZHc1Y/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 29
   },
   {
@@ -583,14 +719,15 @@
     "article_number": "85235",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "http://i.ytimg.com/vi/ZFF_LICqs9g/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 30
   },
   {
@@ -601,14 +738,15 @@
     "article_number": "85130",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw57bf3bd9/images/hi-res/85130_SMDB_BH1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 31
   },
   {
@@ -619,18 +757,15 @@
     "article_number": "85120",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled nylon"
-      },
-      {
-        "percentage": 13,
-        "fiber": "biobased content"
       }
     ],
     "img": "http://i.ytimg.com/vi/Rymj5_nzFcE/maxresdefault.jpg",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 32
   },
   {
@@ -641,14 +776,550 @@
     "article_number": "84996",
     "composition": [
       {
-        "percentage": 0,
+        "percentage": 100,
         "fiber": "recycled polyester"
       }
     ],
     "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe2c91f6b/images/hi-res/84996_CNY_BJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
-    "supplier": [
-
-    ],
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
     "position": 33
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Calcite Pants",
+    "depatment": "woman",
+    "article_type": "pant",
+    "article_number": "85010",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/uSLMJSyUCa4/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 34
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Storm Racer Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "24116",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/1phF7Ftk5j0/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 35
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Torrentshell 3L Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "85245",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled nylon"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/VrwvlebPZLo/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Youngone Namdinh Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Nam Dinh City, Nam Dinh, Vietnam"
+        }
+      ]
+    },
+    "position": 36
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Silent Down Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "27935",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester "
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ms38Akix2e8/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 37
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Pack In Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "20955",
+    "composition": [
+      {
+        "percentage": 91,
+        "fiber": "recycled polyester"
+      },
+      {
+        "percentage": 9,
+        "fiber": "elastane solid"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw059be326/images/hi-res/20955_PGBE_AL1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 38
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Down With It Parka",
+    "depatment": "woman",
+    "article_type": "parka",
+    "article_number": "28441",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/dMGLRdMpdz4/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 39
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Tres 3-in-1 Parka",
+    "depatment": "woman",
+    "article_type": "parka",
+    "article_number": "28409",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester "
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe56802c7/images/hi-res/28409_SMDB_MP1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 40
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Snap Front Retro-X® Fleece Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "22865",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester "
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw2d1585ab/images/hi-res/22865_PLCN_BJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 41
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Micro D™ Snap-T® Fleece Pullover",
+    "depatment": "woman",
+    "article_type": "pullover",
+    "article_number": "26020",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw92393012/images/hi-res/26020_KSDB_BJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Pettenati",
+          "country": "El Salvador",
+          "address": "Coatepeque, Santa Ana, El Salvador"
+        },
+        {
+          "name": "Supertex El Salvador",
+          "country": "El Salvador",
+          "address": "Chalchuapa, Santa Ana, El Salvador"
+        }
+      ]
+    },
+    "position": 42
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Lightweight Better Sweater™ Fleece Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "26080",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw59253737/images/hi-res/26080_FEA_BJ1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Kingwhale Industries Corp.",
+          "country": "Taiwan",
+          "address": "Dayuan District, Taoyuan, Taiwan"
+        },
+        {
+          "name": "V.T. Garment Co., Ltd.",
+          "country": "Thailand",
+          "address": "Yannawa, Bangkok, Thailand"
+        }
+      ]
+    },
+    "position": 43
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Lightweight Better Sweater™ Fleece Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "26090",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwf48b39b1/images/hi-res/26090_NENA_BH1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Kingwhale Industries Corp.",
+          "country": "Taiwan",
+          "address": "Dayuan District, Taoyuan, Taiwan"
+        },
+        {
+          "name": "V.T. Garment Co., Ltd.",
+          "country": "Thailand",
+          "address": "Yannawa, Bangkok, Thailand"
+        }
+      ]
+    },
+    "position": 44
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's DAS® Light Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "85305",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "https://eu.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwd8fcf387/images/hi-res/85305_CNY_BH1.jpg?sw=1000&sh=1000&sfrm=png&q=80&bgcolor=f6f6f6",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 45
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Micro Puff® Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "84040",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/UtX-SXOfPyA/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
+    "position": 46
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Micro Puff® Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84070",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/JMWAn7C9eJI/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
+    "position": 47
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Micro Puff® Vest",
+    "depatment": "woman",
+    "article_type": "vest",
+    "article_number": "84090",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "nylon ripstop"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/icBK0FsQPGw/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 48
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84217",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/s_8PWPSvtJQ/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 49
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "84227",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ZEln6zqwEmI/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
+    "position": 50
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Vest",
+    "depatment": "woman",
+    "article_type": "vest",
+    "article_number": "84247",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/wA53TYnXe9Y/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
+    "position": 51
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano-Air® Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84257",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "polyester "
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/4AOQlY3juDE/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 52
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84217",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/s_8PWPSvtJQ/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 53
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "84227",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ZEln6zqwEmI/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 54
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Hoody",
+    "depatment": "woman",
+    "article_type": "sweathirt",
+    "article_number": "84227",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/ZEln6zqwEmI/maxresdefault.jpg",
+    "supplier": {
+      "exist?": false,
+      "alternative": "Patagonia doesn't provide informations about the supplier of this garment"
+    },
+    "position": 55
+  },
+  {
+    "brand": "PATAGONIA",
+    "name": "Women's Nano Puff® Jacket",
+    "depatment": "woman",
+    "article_type": "jacket",
+    "article_number": "84217",
+    "composition": [
+      {
+        "percentage": 100,
+        "fiber": "recycled polyester"
+      }
+    ],
+    "img": "http://i.ytimg.com/vi/s_8PWPSvtJQ/maxresdefault.jpg",
+    "supplier": {
+      "exist?": true,
+      "list": [
+        {
+          "name": "Quang Viet Enterprise Co., Ltd.",
+          "country": "Vietnam",
+          "address": "Cu Chi District, Ho Chi Minh, Vietnam"
+        },
+        {
+          "name": "Toyota Tsusho",
+          "country": "Japan",
+          "address": "Chuo-ku, Osaka, Japan"
+        }
+      ]
+    },
+    "position": 56
   }
 ]

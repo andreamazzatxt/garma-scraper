@@ -70,7 +70,7 @@ class PatagoniaSpider < Kimurai::Base
   def get_composition(response)
     compositions = response.css('.pdp__content-material')
                            .css('ul').css('li').first.text
-                           .scan(/((?<percentage>\d{1,2})%\s*(?<fiber>\w+\s*\w*))/)
+                           .scan(/((?<percentage>\d{1,3})%\s*(?<fiber>\w+\s*\w*))/)
     compositions.map! do |composition|
       {
         percentage: composition[0].to_i,
@@ -81,23 +81,29 @@ class PatagoniaSpider < Kimurai::Base
   end
 
   def get_supplier_info(response)
-    suppliers = []
+    suppliers = { exist?: true, list: [] }
     get_supplier_link(response).each do |link|
       supplier = make_supplier_object("https://eu.patagonia.com/#{link.attr('href')}")
-      suppliers << supplier
+      suppliers[:list] << supplier
     end
-    suppliers
+    if suppliers[:list].size.zero?
+      return {
+        exist?: false,
+        alternative: "Patagonia doesn't provide informations about the supplier of this garment"
+      }
+    else
+      return suppliers
+    end
   end
 
   def make_supplier_object(link)
     puts "👺  LINK #{link}"
     browser.visit(link)
-    response = browser.current_response
     sleep 5
+    response = browser.current_response
     {
-      "exist?": true,
       "name": response.css('.hero-main__headline').text.gsub(/\n/, ''),
-      "country": response.css('.hero-main__subhead').text.match(/, (\w+)$/)[1],
+      "country": response.css('.hero-main__subhead').text.match(/, ([a-zA-Z]+\s*[a-zA-Z]*)$/)[1],
       "address": response.css('.hero-main__subhead').text
     }
   end
