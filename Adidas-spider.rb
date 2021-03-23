@@ -25,7 +25,7 @@ class AdidasDashSpider < Kimurai::Base
     item = {}
     item[:brand] = BRAND
     item[:name] = get_name(response)
-    # item[:department] = get_department(response)
+    item[:department] = get_department(response)
     item[:article_type] = get_article_type(response)
     # item[:article_number] = get_article_number(response)
     # item[:img] = get_img_url(response)
@@ -37,16 +37,15 @@ class AdidasDashSpider < Kimurai::Base
   end
 
   def get_name(response)
-    response.css('.gl-heading--italic').text
+    response.css('.name___1EbZs').text
   end
 
-  # def get_department(response)
-  #   response.css('.breadcrumbs').css('li')[2].text.gsub('\n', '').gsub('\t' , '').strip
-  # end
-
+  def get_department(response)
+    response.css('.breadcrumbs___3ogXM').css('li')[2].text.gsub('\n', '').gsub('\t' , '').strip
+  end
 
   def get_article_type(response)
-    response.css('.current').text.gsub('\n', '').gsub('\t', '').strip
+    response.css('.name___1EbZs').text.split(' ').last
   end
 
   # def get_article_number(response)
