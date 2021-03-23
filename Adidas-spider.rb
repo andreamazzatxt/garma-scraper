@@ -41,7 +41,8 @@ class AdidasDashSpider < Kimurai::Base
   end
 
   def get_department(response)
-    response.css('.breadcrumbs___3ogXM').css('li')[2].text.gsub('\n', '').gsub('\t' , '').strip
+    data = response.css('.breadcrumbs___3ogXM').css('li')[2].text.gsub('\n', '').gsub('\t' , '').gsub('/', '').strip
+    data = 'Unisex' if data == 'Originals'
   end
 
   def get_article_type(response)
